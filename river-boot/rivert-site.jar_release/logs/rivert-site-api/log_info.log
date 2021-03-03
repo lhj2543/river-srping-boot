@@ -1,0 +1,448 @@
+2021-03-03 09:08:18 |INFO  |XNIO-1 task-1 |PublicNotebookController.java:51 |com.river.site.controller.publics.PublicNotebookController |获取笔记分类树
+2021-03-03 09:08:18 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:74 |com.river.site.controller.publics.PublicNotebookController |查询笔记列表开始
+2021-03-03 09:08:25 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:74 |com.river.site.controller.publics.PublicNotebookController |查询笔记列表开始
+2021-03-03 09:08:27 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:74 |com.river.site.controller.publics.PublicNotebookController |查询笔记列表开始
+2021-03-03 09:23:16 |INFO  |XNIO-1 task-4 |IndexController.java:59 |com.river.site.controller.publics.IndexController |加载首页数据开始
+2021-03-03 09:23:16 |INFO  |XNIO-1 task-4 |IndexController.java:105 |com.river.site.controller.publics.IndexController |加载首页数据结束
+2021-03-03 09:23:41 |INFO  |XNIO-1 task-4 |PublicSiteConnentController.java:46 |com.river.site.controller.publics.PublicSiteConnentController |查询站点内容列表开始
+2021-03-03 09:23:44 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:74 |com.river.site.controller.publics.PublicNotebookController |查询笔记列表开始
+2021-03-03 09:23:44 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:51 |com.river.site.controller.publics.PublicNotebookController |获取笔记分类树
+2021-03-03 09:23:56 |INFO  |XNIO-1 task-4 |PublicSiteConnentController.java:46 |com.river.site.controller.publics.PublicSiteConnentController |查询站点内容列表开始
+2021-03-03 09:24:21 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:51 |com.river.site.controller.publics.PublicNotebookController |获取笔记分类树
+2021-03-03 09:24:21 |INFO  |XNIO-1 task-1 |PublicNotebookController.java:74 |com.river.site.controller.publics.PublicNotebookController |查询笔记列表开始
+2021-03-03 09:24:24 |INFO  |XNIO-1 task-1 |PublicSiteConnentController.java:46 |com.river.site.controller.publics.PublicSiteConnentController |查询站点内容列表开始
+2021-03-03 09:24:27 |INFO  |XNIO-1 task-4 |CheckTokenEndpoint.java:92 |org.springframework.security.oauth2.provider.endpoint.CheckTokenEndpoint |Handling error: InvalidTokenException, Token has expired
+2021-03-03 09:24:27 |INFO  |XNIO-1 task-1 |RiverAuthenticationFailureEvenHandler.java:34 |com.river.security.handler.RiverAuthenticationFailureEvenHandler |用户：access-token 登录失败，异常：4884ed62-1e9a-4d16-9592-3fe5cca4a710
+2021-03-03 09:24:28 |INFO  |XNIO-1 task-1 |PublicController.java:51 |com.river.system.controller.PublicController |加载个人主页菜单开始
+2021-03-03 09:24:28 |INFO  |XNIO-1 task-1 |PublicController.java:82 |com.river.system.controller.PublicController |加载个人主页菜单结束
+2021-03-03 09:24:34 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:24:34 |INFO  |XNIO-1 task-1 |JdbcTokenStore.java:168 |org.springframework.security.oauth2.provider.token.store.JdbcTokenStore |Failed to find access token for token 5a9f6e51-6f43-4a42-b1d8-36dc022c7841
+2021-03-03 09:24:35 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:24:35 |INFO  |XNIO-1 task-1 |SysMenuController.java:62 |com.river.system.controller.SysMenuController |获取用户菜单开始，userName=river
+2021-03-03 09:24:38 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:24:38 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:24:38 |INFO  |XNIO-1 task-4 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 09:24:38 |INFO  |XNIO-1 task-1 |SysUserController.java:102 |com.river.system.controller.SysUserController |查询用户列表开始
+2021-03-03 09:24:41 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:24:41 |INFO  |XNIO-1 task-1 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 09:24:41 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:24:41 |INFO  |XNIO-1 task-4 |SysUserController.java:102 |com.river.system.controller.SysUserController |查询用户列表开始
+2021-03-03 09:24:56 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:24:56 |INFO  |XNIO-1 task-4 |QuartzJobDetailController.java:41 |com.river.site.controller.QuartzJobDetailController |查询job树开始
+2021-03-03 09:24:59 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:24:59 |INFO  |XNIO-1 task-4 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 09:24:59 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:24:59 |INFO  |XNIO-1 task-1 |QuartzJobTriggerController.java:57 |com.river.site.controller.QuartzJobTriggerController |查询job trigger开始
+2021-03-03 09:25:01 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:25:01 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:25:01 |INFO  |XNIO-1 task-4 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 09:25:01 |INFO  |XNIO-1 task-3 |QuartzJobDetailController.java:41 |com.river.site.controller.QuartzJobDetailController |查询job树开始
+2021-03-03 09:25:04 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:25:04 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:25:04 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 09:25:04 |INFO  |XNIO-1 task-4 |SysUserController.java:102 |com.river.system.controller.SysUserController |查询用户列表开始
+2021-03-03 09:25:07 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:25:07 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 09:25:07 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:25:07 |INFO  |XNIO-1 task-4 |QuartzJobDetailController.java:41 |com.river.site.controller.QuartzJobDetailController |查询job树开始
+2021-03-03 09:35:22 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:35:22 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:35:22 |INFO  |XNIO-1 task-4 |SysUserController.java:102 |com.river.system.controller.SysUserController |查询用户列表开始
+2021-03-03 09:35:22 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 09:37:39 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:37:39 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 09:37:39 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:37:39 |INFO  |XNIO-1 task-4 |SiteConnentMainController.java:65 |com.river.site.controller.SiteConnentMainController |查询站点内容列表开始
+2021-03-03 09:37:39 |INFO  |XNIO-1 task-4 |PublicController.java:51 |com.river.system.controller.PublicController |加载个人主页菜单开始
+2021-03-03 09:37:43 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:37:43 |INFO  |XNIO-1 task-4 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 09:37:43 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:37:43 |INFO  |XNIO-1 task-3 |NotebookCategoryController.java:46 |com.river.site.controller.NotebookCategoryController |查询笔记分类列表开始
+2021-03-03 09:37:47 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:37:47 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:37:47 |INFO  |XNIO-1 task-4 |NotebookController.java:43 |com.river.site.controller.NotebookController |查询笔记列表开始
+2021-03-03 09:37:47 |INFO  |XNIO-1 task-3 |NotebookCategoryController.java:46 |com.river.site.controller.NotebookCategoryController |查询笔记分类列表开始
+2021-03-03 09:37:50 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:37:50 |INFO  |XNIO-1 task-4 |NotebookCategoryController.java:46 |com.river.site.controller.NotebookCategoryController |查询笔记分类列表开始
+2021-03-03 09:37:50 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:37:50 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 09:37:55 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:37:55 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 09:37:55 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:37:55 |INFO  |XNIO-1 task-2 |SiteConnentMainController.java:65 |com.river.site.controller.SiteConnentMainController |查询站点内容列表开始
+2021-03-03 09:37:55 |INFO  |XNIO-1 task-2 |PublicController.java:51 |com.river.system.controller.PublicController |加载个人主页菜单开始
+2021-03-03 09:37:56 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:37:56 |INFO  |XNIO-1 task-2 |NotebookCategoryController.java:46 |com.river.site.controller.NotebookCategoryController |查询笔记分类列表开始
+2021-03-03 09:37:56 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:37:56 |INFO  |XNIO-1 task-3 |NotebookController.java:43 |com.river.site.controller.NotebookController |查询笔记列表开始
+2021-03-03 09:37:58 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:37:58 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 09:37:58 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:37:58 |INFO  |XNIO-1 task-2 |NotebookCategoryController.java:46 |com.river.site.controller.NotebookCategoryController |查询笔记分类列表开始
+2021-03-03 09:38:04 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:38:04 |INFO  |XNIO-1 task-2 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 09:38:04 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:38:04 |INFO  |XNIO-1 task-1 |SiteConnentMainController.java:65 |com.river.site.controller.SiteConnentMainController |查询站点内容列表开始
+2021-03-03 09:38:04 |INFO  |XNIO-1 task-1 |PublicController.java:51 |com.river.system.controller.PublicController |加载个人主页菜单开始
+2021-03-03 09:38:30 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:38:30 |INFO  |XNIO-1 task-1 |NotebookCategoryController.java:46 |com.river.site.controller.NotebookCategoryController |查询笔记分类列表开始
+2021-03-03 09:38:30 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:38:30 |INFO  |XNIO-1 task-2 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 09:38:32 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:38:32 |INFO  |XNIO-1 task-2 |NotebookCategoryController.java:46 |com.river.site.controller.NotebookCategoryController |查询笔记分类列表开始
+2021-03-03 09:38:32 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:38:32 |INFO  |XNIO-1 task-1 |NotebookController.java:43 |com.river.site.controller.NotebookController |查询笔记列表开始
+2021-03-03 09:38:38 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:38:38 |INFO  |XNIO-1 task-1 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 09:38:38 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:38:38 |INFO  |XNIO-1 task-1 |SysUserController.java:102 |com.river.system.controller.SysUserController |查询用户列表开始
+2021-03-03 09:39:02 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:39:02 |INFO  |XNIO-1 task-1 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 09:39:03 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:39:03 |INFO  |XNIO-1 task-2 |SiteConnentMainController.java:65 |com.river.site.controller.SiteConnentMainController |查询站点内容列表开始
+2021-03-03 09:39:03 |INFO  |XNIO-1 task-2 |PublicController.java:51 |com.river.system.controller.PublicController |加载个人主页菜单开始
+2021-03-03 09:40:48 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:40:48 |INFO  |XNIO-1 task-2 |NotebookCategoryController.java:46 |com.river.site.controller.NotebookCategoryController |查询笔记分类列表开始
+2021-03-03 09:40:48 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:40:48 |INFO  |XNIO-1 task-1 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 09:40:50 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:40:50 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:40:50 |INFO  |XNIO-1 task-1 |NotebookCategoryController.java:46 |com.river.site.controller.NotebookCategoryController |查询笔记分类列表开始
+2021-03-03 09:40:50 |INFO  |XNIO-1 task-4 |NotebookController.java:43 |com.river.site.controller.NotebookController |查询笔记列表开始
+2021-03-03 09:40:51 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:40:51 |INFO  |XNIO-1 task-4 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 09:40:51 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:40:51 |INFO  |XNIO-1 task-3 |NotebookCategoryController.java:46 |com.river.site.controller.NotebookCategoryController |查询笔记分类列表开始
+2021-03-03 09:58:12 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:58:12 |INFO  |XNIO-1 task-3 |SysUserController.java:102 |com.river.system.controller.SysUserController |查询用户列表开始
+2021-03-03 09:58:12 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:58:12 |INFO  |XNIO-1 task-4 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 09:58:18 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:58:18 |INFO  |XNIO-1 task-4 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 09:58:18 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:58:18 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 09:58:18 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:58:18 |INFO  |XNIO-1 task-3 |SysRoleController.java:45 |com.river.system.controller.SysRoleController |查询角色列表开始
+2021-03-03 09:58:18 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:58:18 |INFO  |XNIO-1 task-2 |SysUserController.java:124 |com.river.system.controller.SysUserController |查询用户详情开始
+2021-03-03 09:58:22 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:58:22 |INFO  |XNIO-1 task-2 |SysRoleController.java:45 |com.river.system.controller.SysRoleController |查询角色列表开始
+2021-03-03 09:58:22 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:58:22 |INFO  |XNIO-1 task-1 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 09:58:25 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:58:25 |INFO  |XNIO-1 task-1 |SysMenuController.java:80 |com.river.system.controller.SysMenuController |查询菜单列表开始
+2021-03-03 09:58:25 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 09:58:25 |INFO  |XNIO-1 task-2 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 09:58:28 |INFO  |XNIO-1 task-2 |PublicController.java:51 |com.river.system.controller.PublicController |加载个人主页菜单开始
+2021-03-03 09:58:30 |INFO  |XNIO-1 task-2 |PublicSiteConnentController.java:46 |com.river.site.controller.publics.PublicSiteConnentController |查询站点内容列表开始
+2021-03-03 09:58:32 |INFO  |XNIO-1 task-2 |PublicNotebookController.java:51 |com.river.site.controller.publics.PublicNotebookController |获取笔记分类树
+2021-03-03 09:58:33 |INFO  |XNIO-1 task-2 |PublicNotebookController.java:74 |com.river.site.controller.publics.PublicNotebookController |查询笔记列表开始
+2021-03-03 09:58:35 |INFO  |XNIO-1 task-2 |PublicSiteConnentController.java:46 |com.river.site.controller.publics.PublicSiteConnentController |查询站点内容列表开始
+2021-03-03 09:58:39 |INFO  |XNIO-1 task-2 |PublicNotebookController.java:74 |com.river.site.controller.publics.PublicNotebookController |查询笔记列表开始
+2021-03-03 09:58:39 |INFO  |XNIO-1 task-3 |PublicNotebookController.java:51 |com.river.site.controller.publics.PublicNotebookController |获取笔记分类树
+2021-03-03 09:58:40 |INFO  |XNIO-1 task-2 |PublicSiteConnentController.java:46 |com.river.site.controller.publics.PublicSiteConnentController |查询站点内容列表开始
+2021-03-03 10:01:40 |INFO  |XNIO-1 task-2 |PublicController.java:51 |com.river.system.controller.PublicController |加载个人主页菜单开始
+2021-03-03 10:39:56 |INFO  |XNIO-1 task-2 |PublicSiteConnentController.java:46 |com.river.site.controller.publics.PublicSiteConnentController |查询站点内容列表开始
+2021-03-03 10:39:59 |INFO  |XNIO-1 task-2 |PublicNotebookController.java:74 |com.river.site.controller.publics.PublicNotebookController |查询笔记列表开始
+2021-03-03 10:39:59 |INFO  |XNIO-1 task-2 |PublicNotebookController.java:51 |com.river.site.controller.publics.PublicNotebookController |获取笔记分类树
+2021-03-03 10:40:10 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 10:40:10 |INFO  |XNIO-1 task-2 |SysItemCategoryController.java:52 |com.river.system.controller.SysItemCategoryController |查询字典分类列表开始
+2021-03-03 10:40:10 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 10:40:10 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 10:40:17 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 10:40:17 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 10:40:17 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 10:40:17 |INFO  |XNIO-1 task-2 |SysUserController.java:102 |com.river.system.controller.SysUserController |查询用户列表开始
+2021-03-03 10:40:19 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 10:40:19 |INFO  |XNIO-1 task-2 |QuartzJobDetailController.java:41 |com.river.site.controller.QuartzJobDetailController |查询job树开始
+2021-03-03 10:40:19 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 10:40:19 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 10:40:20 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 10:40:20 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 10:40:20 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 10:40:20 |INFO  |XNIO-1 task-2 |QuartzJobTriggerController.java:57 |com.river.site.controller.QuartzJobTriggerController |查询job trigger开始
+2021-03-03 10:40:27 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 10:40:27 |INFO  |XNIO-1 task-2 |SysUserController.java:102 |com.river.system.controller.SysUserController |查询用户列表开始
+2021-03-03 10:40:27 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 10:40:27 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 10:40:32 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 10:40:32 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 10:40:32 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 10:40:32 |INFO  |XNIO-1 task-1 |QuartzJobDetailController.java:41 |com.river.site.controller.QuartzJobDetailController |查询job树开始
+2021-03-03 10:40:35 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 10:40:35 |INFO  |XNIO-1 task-1 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 10:40:35 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 10:40:35 |INFO  |XNIO-1 task-3 |QuartzJobTriggerController.java:57 |com.river.site.controller.QuartzJobTriggerController |查询job trigger开始
+2021-03-03 10:40:39 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 10:40:39 |INFO  |XNIO-1 task-3 |SysMenuController.java:80 |com.river.system.controller.SysMenuController |查询菜单列表开始
+2021-03-03 10:40:39 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 10:40:39 |INFO  |XNIO-1 task-2 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 10:43:57 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 10:43:57 |INFO  |XNIO-1 task-3 |SysMenuController.java:199 |com.river.system.controller.SysMenuController |新增/修改菜单开始 
+2021-03-03 10:43:57 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:36 |com.river.common.core.component.CacheCommonManage |清除菜单缓存，boolean=true
+2021-03-03 10:43:57 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=river-site:user-menu,key=null
+2021-03-03 10:43:57 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=null,key=river-system:site-menu
+2021-03-03 11:13:52 |INFO  |XNIO-1 task-3 |PublicNotebookController.java:74 |com.river.site.controller.publics.PublicNotebookController |查询笔记列表开始
+2021-03-03 11:13:53 |INFO  |XNIO-1 task-3 |PublicNotebookController.java:51 |com.river.site.controller.publics.PublicNotebookController |获取笔记分类树
+2021-03-03 11:13:58 |INFO  |XNIO-1 task-3 |PublicSiteConnentController.java:46 |com.river.site.controller.publics.PublicSiteConnentController |查询站点内容列表开始
+2021-03-03 11:14:11 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:14:11 |INFO  |XNIO-1 task-3 |SysMenuController.java:235 |com.river.system.controller.SysMenuController |获取菜单最大排序开始 
+2021-03-03 11:15:10 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:15:10 |INFO  |XNIO-1 task-3 |SysMenuController.java:199 |com.river.system.controller.SysMenuController |新增/修改菜单开始 
+2021-03-03 11:15:10 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:36 |com.river.common.core.component.CacheCommonManage |清除菜单缓存，boolean=true
+2021-03-03 11:15:10 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=river-site:user-menu,key=null
+2021-03-03 11:15:10 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=null,key=river-system:site-menu
+2021-03-03 11:15:17 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:15:17 |INFO  |XNIO-1 task-3 |SysMenuController.java:62 |com.river.system.controller.SysMenuController |获取用户菜单开始，userName=river
+2021-03-03 11:15:18 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:15:18 |INFO  |XNIO-1 task-3 |SysMenuController.java:80 |com.river.system.controller.SysMenuController |查询菜单列表开始
+2021-03-03 11:15:18 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:15:18 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:15:39 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:15:39 |INFO  |XNIO-1 task-3 |SysMenuController.java:80 |com.river.system.controller.SysMenuController |查询菜单列表开始
+2021-03-03 11:15:51 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:15:51 |INFO  |XNIO-1 task-3 |SysMenuController.java:235 |com.river.system.controller.SysMenuController |获取菜单最大排序开始 
+2021-03-03 11:16:54 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:16:54 |INFO  |XNIO-1 task-3 |SysMenuController.java:199 |com.river.system.controller.SysMenuController |新增/修改菜单开始 
+2021-03-03 11:16:54 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:36 |com.river.common.core.component.CacheCommonManage |清除菜单缓存，boolean=true
+2021-03-03 11:16:54 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=river-site:user-menu,key=null
+2021-03-03 11:16:54 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=null,key=river-system:site-menu
+2021-03-03 11:16:58 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:16:58 |INFO  |XNIO-1 task-3 |SysMenuController.java:62 |com.river.system.controller.SysMenuController |获取用户菜单开始，userName=river
+2021-03-03 11:16:58 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:16:58 |INFO  |XNIO-1 task-3 |SysMenuController.java:80 |com.river.system.controller.SysMenuController |查询菜单列表开始
+2021-03-03 11:16:58 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:16:58 |INFO  |XNIO-1 task-4 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:17:05 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:17:05 |INFO  |XNIO-1 task-4 |SysMenuController.java:62 |com.river.system.controller.SysMenuController |获取用户菜单开始，userName=river
+2021-03-03 11:17:05 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:17:05 |INFO  |XNIO-1 task-4 |SysMenuController.java:80 |com.river.system.controller.SysMenuController |查询菜单列表开始
+2021-03-03 11:17:05 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:17:05 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:17:12 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:17:12 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:17:12 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:17:12 |INFO  |XNIO-1 task-4 |SysUserController.java:102 |com.river.system.controller.SysUserController |查询用户列表开始
+2021-03-03 11:17:26 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:17:26 |INFO  |XNIO-1 task-4 |SysMenuController.java:199 |com.river.system.controller.SysMenuController |新增/修改菜单开始 
+2021-03-03 11:17:26 |INFO  |XNIO-1 task-4 |CacheCommonManage.java:36 |com.river.common.core.component.CacheCommonManage |清除菜单缓存，boolean=true
+2021-03-03 11:17:26 |INFO  |XNIO-1 task-4 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=river-site:user-menu,key=null
+2021-03-03 11:17:26 |INFO  |XNIO-1 task-4 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=null,key=river-system:site-menu
+2021-03-03 11:17:36 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:17:36 |INFO  |XNIO-1 task-4 |SysMenuController.java:199 |com.river.system.controller.SysMenuController |新增/修改菜单开始 
+2021-03-03 11:17:36 |INFO  |XNIO-1 task-4 |CacheCommonManage.java:36 |com.river.common.core.component.CacheCommonManage |清除菜单缓存，boolean=true
+2021-03-03 11:17:36 |INFO  |XNIO-1 task-4 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=river-site:user-menu,key=null
+2021-03-03 11:17:36 |INFO  |XNIO-1 task-4 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=null,key=river-system:site-menu
+2021-03-03 11:17:41 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:17:41 |INFO  |XNIO-1 task-4 |SysMenuController.java:80 |com.river.system.controller.SysMenuController |查询菜单列表开始
+2021-03-03 11:17:47 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:17:47 |INFO  |XNIO-1 task-4 |SysMenuController.java:62 |com.river.system.controller.SysMenuController |获取用户菜单开始，userName=river
+2021-03-03 11:17:51 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:17:51 |INFO  |XNIO-1 task-4 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:17:51 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:17:51 |INFO  |XNIO-1 task-3 |SysUserController.java:102 |com.river.system.controller.SysUserController |查询用户列表开始
+2021-03-03 11:18:21 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:18:21 |INFO  |XNIO-1 task-3 |SysMenuController.java:199 |com.river.system.controller.SysMenuController |新增/修改菜单开始 
+2021-03-03 11:18:21 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:36 |com.river.common.core.component.CacheCommonManage |清除菜单缓存，boolean=true
+2021-03-03 11:18:21 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=river-site:user-menu,key=null
+2021-03-03 11:18:21 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=null,key=river-system:site-menu
+2021-03-03 11:18:37 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:18:37 |INFO  |XNIO-1 task-3 |SysMenuController.java:62 |com.river.system.controller.SysMenuController |获取用户菜单开始，userName=river
+2021-03-03 11:18:37 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:18:37 |INFO  |XNIO-1 task-3 |SysUserController.java:102 |com.river.system.controller.SysUserController |查询用户列表开始
+2021-03-03 11:18:38 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:18:38 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:19:58 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:19:58 |INFO  |XNIO-1 task-3 |SysMenuController.java:199 |com.river.system.controller.SysMenuController |新增/修改菜单开始 
+2021-03-03 11:19:58 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:36 |com.river.common.core.component.CacheCommonManage |清除菜单缓存，boolean=true
+2021-03-03 11:19:58 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=river-site:user-menu,key=null
+2021-03-03 11:19:58 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=null,key=river-system:site-menu
+2021-03-03 11:20:05 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:20:05 |INFO  |XNIO-1 task-3 |SysMenuController.java:62 |com.river.system.controller.SysMenuController |获取用户菜单开始，userName=river
+2021-03-03 11:20:05 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:20:05 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:20:06 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:20:06 |INFO  |XNIO-1 task-3 |SysUserController.java:102 |com.river.system.controller.SysUserController |查询用户列表开始
+2021-03-03 11:20:11 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:20:11 |INFO  |XNIO-1 task-3 |SysUserController.java:102 |com.river.system.controller.SysUserController |查询用户列表开始
+2021-03-03 11:20:11 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:20:11 |INFO  |XNIO-1 task-4 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:20:19 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:20:19 |INFO  |XNIO-1 task-4 |QuartzJobDetailController.java:41 |com.river.site.controller.QuartzJobDetailController |查询job树开始
+2021-03-03 11:20:19 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:20:19 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:20:34 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:20:34 |INFO  |XNIO-1 task-3 |SysMenuController.java:199 |com.river.system.controller.SysMenuController |新增/修改菜单开始 
+2021-03-03 11:20:34 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:36 |com.river.common.core.component.CacheCommonManage |清除菜单缓存，boolean=true
+2021-03-03 11:20:34 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=river-site:user-menu,key=null
+2021-03-03 11:20:34 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=null,key=river-system:site-menu
+2021-03-03 11:20:48 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:20:48 |INFO  |XNIO-1 task-3 |SysMenuController.java:199 |com.river.system.controller.SysMenuController |新增/修改菜单开始 
+2021-03-03 11:20:48 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:36 |com.river.common.core.component.CacheCommonManage |清除菜单缓存，boolean=true
+2021-03-03 11:20:48 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=river-site:user-menu,key=null
+2021-03-03 11:20:48 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=null,key=river-system:site-menu
+2021-03-03 11:20:52 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:20:53 |INFO  |XNIO-1 task-3 |SysMenuController.java:62 |com.river.system.controller.SysMenuController |获取用户菜单开始，userName=river
+2021-03-03 11:20:53 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:20:53 |INFO  |XNIO-1 task-3 |QuartzJobDetailController.java:41 |com.river.site.controller.QuartzJobDetailController |查询job树开始
+2021-03-03 11:20:53 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:20:53 |INFO  |XNIO-1 task-4 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:20:55 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:20:55 |INFO  |XNIO-1 task-4 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:20:55 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:20:55 |INFO  |XNIO-1 task-3 |QuartzJobDetailController.java:41 |com.river.site.controller.QuartzJobDetailController |查询job树开始
+2021-03-03 11:21:08 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:21:08 |INFO  |XNIO-1 task-3 |SysMenuController.java:235 |com.river.system.controller.SysMenuController |获取菜单最大排序开始 
+2021-03-03 11:21:54 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:21:54 |INFO  |XNIO-1 task-3 |SysMenuController.java:199 |com.river.system.controller.SysMenuController |新增/修改菜单开始 
+2021-03-03 11:21:54 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:36 |com.river.common.core.component.CacheCommonManage |清除菜单缓存，boolean=true
+2021-03-03 11:21:54 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=river-site:user-menu,key=null
+2021-03-03 11:21:54 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=null,key=river-system:site-menu
+2021-03-03 11:21:56 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:21:56 |INFO  |XNIO-1 task-3 |SysMenuController.java:62 |com.river.system.controller.SysMenuController |获取用户菜单开始，userName=river
+2021-03-03 11:21:57 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:21:57 |INFO  |XNIO-1 task-3 |QuartzJobDetailController.java:41 |com.river.site.controller.QuartzJobDetailController |查询job树开始
+2021-03-03 11:21:57 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:21:57 |INFO  |XNIO-1 task-4 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:22:01 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:01 |INFO  |XNIO-1 task-4 |QuartzJobTriggerController.java:57 |com.river.site.controller.QuartzJobTriggerController |查询job trigger开始
+2021-03-03 11:22:01 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:01 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:22:09 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:09 |INFO  |XNIO-1 task-3 |QuartzJobDetailController.java:41 |com.river.site.controller.QuartzJobDetailController |查询job树开始
+2021-03-03 11:22:09 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:09 |INFO  |XNIO-1 task-2 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:22:15 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:15 |INFO  |XNIO-1 task-2 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:22:15 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:15 |INFO  |XNIO-1 task-3 |SysUserController.java:102 |com.river.system.controller.SysUserController |查询用户列表开始
+2021-03-03 11:22:25 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:25 |INFO  |XNIO-1 task-3 |SysMenuController.java:199 |com.river.system.controller.SysMenuController |新增/修改菜单开始 
+2021-03-03 11:22:25 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:36 |com.river.common.core.component.CacheCommonManage |清除菜单缓存，boolean=true
+2021-03-03 11:22:25 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=river-site:user-menu,key=null
+2021-03-03 11:22:25 |INFO  |XNIO-1 task-3 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=null,key=river-system:site-menu
+2021-03-03 11:22:29 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:29 |INFO  |XNIO-1 task-3 |SysMenuController.java:80 |com.river.system.controller.SysMenuController |查询菜单列表开始
+2021-03-03 11:22:35 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:35 |INFO  |XNIO-1 task-3 |SysMenuController.java:62 |com.river.system.controller.SysMenuController |获取用户菜单开始，userName=river
+2021-03-03 11:22:36 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:36 |INFO  |XNIO-1 task-3 |SysUserController.java:102 |com.river.system.controller.SysUserController |查询用户列表开始
+2021-03-03 11:22:36 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:36 |INFO  |XNIO-1 task-4 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:22:38 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:38 |INFO  |XNIO-1 task-4 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:22:38 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:38 |INFO  |XNIO-1 task-3 |SysRoleController.java:45 |com.river.system.controller.SysRoleController |查询角色列表开始
+2021-03-03 11:22:39 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:39 |INFO  |XNIO-1 task-3 |SysRoleController.java:45 |com.river.system.controller.SysRoleController |查询角色列表开始
+2021-03-03 11:22:39 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:39 |INFO  |XNIO-1 task-4 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:22:40 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:40 |INFO  |XNIO-1 task-4 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:22:40 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:40 |INFO  |XNIO-1 task-3 |SysMenuController.java:80 |com.river.system.controller.SysMenuController |查询菜单列表开始
+2021-03-03 11:22:41 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:41 |INFO  |XNIO-1 task-3 |SysItemCategoryController.java:52 |com.river.system.controller.SysItemCategoryController |查询字典分类列表开始
+2021-03-03 11:22:41 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:41 |INFO  |XNIO-1 task-1 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:22:45 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:45 |INFO  |XNIO-1 task-1 |SysMenuController.java:199 |com.river.system.controller.SysMenuController |新增/修改菜单开始 
+2021-03-03 11:22:45 |INFO  |XNIO-1 task-1 |CacheCommonManage.java:36 |com.river.common.core.component.CacheCommonManage |清除菜单缓存，boolean=true
+2021-03-03 11:22:45 |INFO  |XNIO-1 task-1 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=river-site:user-menu,key=null
+2021-03-03 11:22:45 |INFO  |XNIO-1 task-1 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=null,key=river-system:site-menu
+2021-03-03 11:22:48 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:48 |INFO  |XNIO-1 task-1 |SysMenuController.java:62 |com.river.system.controller.SysMenuController |获取用户菜单开始，userName=river
+2021-03-03 11:22:49 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:49 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:49 |INFO  |XNIO-1 task-1 |SysItemCategoryController.java:52 |com.river.system.controller.SysItemCategoryController |查询字典分类列表开始
+2021-03-03 11:22:49 |INFO  |XNIO-1 task-2 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:22:51 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:51 |INFO  |XNIO-1 task-1 |QuartzJobDetailController.java:41 |com.river.site.controller.QuartzJobDetailController |查询job树开始
+2021-03-03 11:22:51 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:51 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:22:53 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:53 |INFO  |XNIO-1 task-3 |QuartzJobDetailController.java:41 |com.river.site.controller.QuartzJobDetailController |查询job树开始
+2021-03-03 11:22:53 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:53 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:22:54 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:54 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:22:54 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:54 |INFO  |XNIO-1 task-1 |QuartzJobTriggerController.java:57 |com.river.site.controller.QuartzJobTriggerController |查询job trigger开始
+2021-03-03 11:22:55 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:55 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:22:55 |INFO  |XNIO-1 task-1 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:22:55 |INFO  |XNIO-1 task-2 |QuartzJobDetailController.java:41 |com.river.site.controller.QuartzJobDetailController |查询job树开始
+2021-03-03 11:23:05 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:23:05 |INFO  |XNIO-1 task-1 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:23:05 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:23:05 |INFO  |XNIO-1 task-3 |SiteConnentMainController.java:65 |com.river.site.controller.SiteConnentMainController |查询站点内容列表开始
+2021-03-03 11:23:05 |INFO  |XNIO-1 task-3 |PublicController.java:51 |com.river.system.controller.PublicController |加载个人主页菜单开始
+2021-03-03 11:23:05 |INFO  |XNIO-1 task-3 |PublicController.java:82 |com.river.system.controller.PublicController |加载个人主页菜单结束
+2021-03-03 11:23:06 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:23:06 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:23:07 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:23:07 |INFO  |XNIO-1 task-3 |NotebookCategoryController.java:46 |com.river.site.controller.NotebookCategoryController |查询笔记分类列表开始
+2021-03-03 11:23:10 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:23:10 |INFO  |XNIO-1 task-3 |SiteConnentMainController.java:65 |com.river.site.controller.SiteConnentMainController |查询站点内容列表开始
+2021-03-03 11:23:10 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:23:11 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:23:11 |INFO  |XNIO-1 task-3 |PublicController.java:51 |com.river.system.controller.PublicController |加载个人主页菜单开始
+2021-03-03 11:23:14 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:23:14 |INFO  |XNIO-1 task-3 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:23:14 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:23:14 |INFO  |XNIO-1 task-3 |SysUserController.java:102 |com.river.system.controller.SysUserController |查询用户列表开始
+2021-03-03 11:23:17 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:23:17 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:23:17 |INFO  |XNIO-1 task-4 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:23:17 |INFO  |XNIO-1 task-3 |QuartzJobDetailController.java:41 |com.river.site.controller.QuartzJobDetailController |查询job树开始
+2021-03-03 11:23:31 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:23:31 |INFO  |XNIO-1 task-4 |QuartzJobTriggerController.java:57 |com.river.site.controller.QuartzJobTriggerController |查询job trigger开始
+2021-03-03 11:23:31 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:23:31 |INFO  |XNIO-1 task-1 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:23:39 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:23:39 |INFO  |XNIO-1 task-1 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:23:39 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:23:39 |INFO  |XNIO-1 task-4 |QuartzJobTriggerController.java:76 |com.river.site.controller.QuartzJobTriggerController |查询job运行日志开始
+2021-03-03 11:23:45 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:23:45 |INFO  |XNIO-1 task-4 |QuartzJobTriggerController.java:76 |com.river.site.controller.QuartzJobTriggerController |查询job运行日志开始
+2021-03-03 11:24:08 |INFO  |XNIO-1 task-4 |PublicSiteConnentController.java:46 |com.river.site.controller.publics.PublicSiteConnentController |查询站点内容列表开始
+2021-03-03 11:24:13 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:51 |com.river.site.controller.publics.PublicNotebookController |获取笔记分类树
+2021-03-03 11:24:13 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:74 |com.river.site.controller.publics.PublicNotebookController |查询笔记列表开始
+2021-03-03 11:24:16 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:24:16 |INFO  |XNIO-1 task-4 |SysMenuController.java:62 |com.river.system.controller.SysMenuController |获取用户菜单开始，userName=river
+2021-03-03 11:24:19 |INFO  |XNIO-1 task-4 |PublicController.java:51 |com.river.system.controller.PublicController |加载个人主页菜单开始
+2021-03-03 11:24:27 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:51 |com.river.site.controller.publics.PublicNotebookController |获取笔记分类树
+2021-03-03 11:24:27 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:74 |com.river.site.controller.publics.PublicNotebookController |查询笔记列表开始
+2021-03-03 11:24:37 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:74 |com.river.site.controller.publics.PublicNotebookController |查询笔记列表开始
+2021-03-03 11:24:39 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:74 |com.river.site.controller.publics.PublicNotebookController |查询笔记列表开始
+2021-03-03 11:24:52 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:24:52 |INFO  |XNIO-1 task-4 |SiteConnentMainController.java:65 |com.river.site.controller.SiteConnentMainController |查询站点内容列表开始
+2021-03-03 11:24:52 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:24:52 |INFO  |XNIO-1 task-4 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:24:53 |INFO  |XNIO-1 task-4 |PublicController.java:51 |com.river.system.controller.PublicController |加载个人主页菜单开始
+2021-03-03 11:24:57 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:24:57 |INFO  |XNIO-1 task-4 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-03-03 11:24:57 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:24:57 |INFO  |XNIO-1 task-4 |NotebookCategoryController.java:46 |com.river.site.controller.NotebookCategoryController |查询笔记分类列表开始
+2021-03-03 11:25:01 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:25:01 |INFO  |XNIO-1 task-4 |NotebookController.java:43 |com.river.site.controller.NotebookController |查询笔记列表开始
+2021-03-03 11:25:01 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:25:01 |INFO  |XNIO-1 task-4 |NotebookCategoryController.java:46 |com.river.site.controller.NotebookCategoryController |查询笔记分类列表开始
+2021-03-03 11:25:08 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:25:08 |INFO  |XNIO-1 task-4 |NotebookController.java:43 |com.river.site.controller.NotebookController |查询笔记列表开始
+2021-03-03 11:25:12 |INFO  |XNIO-1 task-1 |UeditorController.java:30 |com.river.site.controller.publics.UeditorController |ueditor插件相关的请求开始
+2021-03-03 11:25:12 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:25:12 |INFO  |XNIO-1 task-4 |NotebookController.java:80 |com.river.site.controller.NotebookController |查询笔记详情开始
+2021-03-03 11:25:12 |INFO  |XNIO-1 task-4 |NotebookController.java:97 |com.river.site.controller.NotebookController |查询笔记详情结束
+2021-03-03 11:26:01 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-03-03 11:26:01 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-03-03 11:26:58 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:74 |com.river.site.controller.publics.PublicNotebookController |查询笔记列表开始
+2021-03-03 11:26:59 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:119 |com.river.site.controller.publics.PublicNotebookController |查询笔记详情开始
+2021-03-03 11:26:59 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:136 |com.river.site.controller.publics.PublicNotebookController |查询笔记详情结束
+2021-03-03 11:37:51 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:119 |com.river.site.controller.publics.PublicNotebookController |查询笔记详情开始
+2021-03-03 11:37:51 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:136 |com.river.site.controller.publics.PublicNotebookController |查询笔记详情结束
+2021-03-03 11:38:14 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:119 |com.river.site.controller.publics.PublicNotebookController |查询笔记详情开始
+2021-03-03 11:38:14 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:136 |com.river.site.controller.publics.PublicNotebookController |查询笔记详情结束
+2021-03-03 12:29:29 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:74 |com.river.site.controller.publics.PublicNotebookController |查询笔记列表开始
+2021-03-03 12:29:31 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:119 |com.river.site.controller.publics.PublicNotebookController |查询笔记详情开始
+2021-03-03 12:29:31 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:136 |com.river.site.controller.publics.PublicNotebookController |查询笔记详情结束

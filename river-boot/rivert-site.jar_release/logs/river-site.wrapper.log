@@ -1,0 +1,137 @@
+2021-01-15 21:54:01,474 INFO  - Installing service ' river-site  (river-site)'...
+2021-01-15 21:54:03,928 INFO  - Service ' river-site  (river-site)' was installed successfully.
+2021-01-15 21:54:33,028 DEBUG - Starting WinSW in service mode.
+2021-01-15 21:54:33,077 INFO  - Service ' river-site  (river-site)' was refreshed successfully.
+2021-01-15 21:54:33,092 INFO  - Starting java
+2021-01-15 21:54:33,237 INFO  - Started process java (3308).
+2021-01-15 21:54:33,276 INFO  - Service started successfully.
+2021-01-15 21:54:33,520 WARN  - Child process 'java (3308)' finished with code 1.
+2021-01-15 21:54:44,821 DEBUG - Starting WinSW in service mode.
+2021-01-15 21:54:44,869 INFO  - Service ' river-site  (river-site)' was refreshed successfully.
+2021-01-15 21:54:44,885 INFO  - Starting java
+2021-01-15 21:54:45,015 INFO  - Started process java (12324).
+2021-01-15 21:54:45,057 INFO  - Service started successfully.
+2021-01-15 21:54:45,122 WARN  - Child process 'java (12324)' finished with code 1.
+2021-01-15 21:56:18,861 DEBUG - Starting WinSW in service mode.
+2021-01-15 21:56:18,909 INFO  - Service ' river-site  (river-site)' was refreshed successfully.
+2021-01-15 21:56:18,925 INFO  - Starting java
+2021-01-15 21:56:19,184 INFO  - Started process java (8280).
+2021-01-15 21:56:19,222 INFO  - Service started successfully.
+2021-01-16 23:33:03,986 INFO  - Stopping river-site
+2021-01-16 23:33:04,021 DEBUG - ProcessKill 8280
+2021-01-16 23:33:04,489 INFO  - Child process 'java (8280)' canceled with code 143.
+2021-01-16 23:33:04,507 INFO  - Finished river-site
+2021-01-16 23:33:04,507 INFO  - Service was shut down successfully.
+2021-01-16 23:33:42,617 DEBUG - Starting WinSW in service mode.
+2021-01-16 23:33:42,804 INFO  - Service ' river-site  (river-site)' was refreshed successfully.
+2021-01-16 23:33:42,869 INFO  - Starting java
+2021-01-16 23:33:43,095 INFO  - Started process java (4856).
+2021-01-16 23:33:43,245 INFO  - Service started successfully.
+2021-01-22 15:22:03,811 INFO  - Stopping river-site
+2021-01-22 15:22:03,936 DEBUG - ProcessKill 4856
+2021-01-22 15:22:46,227 DEBUG - Starting WinSW in service mode.
+2021-01-22 15:22:46,598 INFO  - Service ' river-site  (river-site)' was refreshed successfully.
+2021-01-22 15:22:46,813 INFO  - Starting java
+2021-01-22 15:22:47,123 INFO  - Started process java (7468).
+2021-01-22 15:22:47,240 INFO  - Service started successfully.
+2021-01-24 08:33:11,434 INFO  - Stopping river-site
+2021-01-24 08:33:11,471 DEBUG - ProcessKill 7468
+2021-01-24 08:33:11,802 INFO  - Child process 'java (7468)' canceled with code 143.
+2021-01-24 08:33:11,819 INFO  - Finished river-site
+2021-01-24 08:33:11,820 INFO  - Service was shut down successfully.
+2021-01-24 15:26:39,608 DEBUG - Starting WinSW in service mode.
+2021-01-24 15:26:39,911 INFO  - Service ' river-site  (river-site)' was refreshed successfully.
+2021-01-24 15:26:40,253 INFO  - Starting java
+2021-01-24 15:26:40,599 INFO  - Started process java (1028).
+2021-01-24 15:26:40,788 INFO  - Service started successfully.
+2021-01-24 15:30:04,706 INFO  - Stopping river-site
+2021-01-24 15:30:04,742 DEBUG - ProcessKill 1028
+2021-01-24 15:30:05,162 INFO  - Child process 'java (1028)' canceled with code 143.
+2021-01-24 15:30:05,194 INFO  - Finished river-site
+2021-01-24 15:30:05,195 INFO  - Service was shut down successfully.
+2021-01-24 17:40:11,004 DEBUG - Starting WinSW in service mode.
+2021-01-24 17:40:11,341 INFO  - Service ' river-site  (river-site)' was refreshed successfully.
+2021-01-24 17:40:11,409 INFO  - Starting java
+2021-01-24 17:40:11,672 INFO  - Started process java (1564).
+2021-01-24 17:40:11,940 INFO  - Service started successfully.
+2021-02-17 13:12:54,427 DEBUG - Starting WinSW in service mode.
+2021-02-17 13:12:56,704 INFO  - Service ' river-site  (river-site)' was refreshed successfully.
+2021-02-17 13:12:57,451 INFO  - Starting java
+2021-02-17 13:13:02,478 INFO  - Started process java (8372).
+2021-02-17 13:13:04,830 INFO  - Service started successfully.
+2021-02-21 13:05:38,715 INFO  - Stopping river-site
+2021-02-21 13:05:38,751 DEBUG - ProcessKill 8372
+2021-02-21 13:05:40,376 INFO  - Child process 'java (8372)' canceled with code 130.
+2021-02-21 13:05:40,445 INFO  - Finished river-site
+2021-02-21 13:05:40,446 INFO  - Service stopped successfully.
+2021-02-21 13:05:57,605 DEBUG - Starting WinSW in service mode.
+2021-02-21 13:05:57,659 INFO  - Service ' river-site  (river-site)' was refreshed successfully.
+2021-02-21 13:05:57,676 INFO  - Starting java
+2021-02-21 13:05:58,469 INFO  - Started process java (30664).
+2021-02-21 13:05:58,520 INFO  - Service started successfully.
+2021-02-26 18:59:25,629 DEBUG - Starting WinSW in service mode.
+2021-02-26 18:59:25,955 INFO  - Service ' river-site  (river-site)' was refreshed successfully.
+2021-02-26 18:59:26,025 INFO  - Starting java
+2021-02-26 18:59:26,466 INFO  - Started process java (7404).
+2021-02-26 18:59:26,619 INFO  - Service started successfully.
+2021-02-26 22:01:25,604 DEBUG - Starting WinSW in service mode.
+2021-02-26 22:01:27,961 INFO  - Service ' river-site  (river-site)' was refreshed successfully.
+2021-02-26 22:01:28,813 INFO  - Starting java
+2021-02-26 22:01:32,097 INFO  - Started process java (1012).
+2021-02-26 22:01:33,845 INFO  - Service started successfully.
+2021-02-27 12:23:41,819 INFO  - Stopping river-site
+2021-02-27 12:23:42,374 DEBUG - ProcessKill 1012
+2021-02-27 12:23:46,530 INFO  - Child process 'java (1012)' canceled with code 143.
+2021-02-27 12:23:46,931 INFO  - Finished river-site
+2021-02-27 12:23:46,934 INFO  - Service was shut down successfully.
+2021-02-27 12:26:51,124 DEBUG - Starting WinSW in service mode.
+2021-02-27 12:26:52,882 INFO  - Service ' river-site  (river-site)' was refreshed successfully.
+2021-02-27 12:26:53,305 INFO  - Starting java
+2021-02-27 12:26:55,914 INFO  - Started process java (1720).
+2021-02-27 12:26:57,319 INFO  - Service started successfully.
+2021-02-27 12:54:17,378 WARN  - Child process 'java (1720)' finished with code 1.
+2021-02-27 13:53:06,674 DEBUG - Starting WinSW in service mode.
+2021-02-27 13:53:07,509 INFO  - Service ' river-site  (river-site)' was refreshed successfully.
+2021-02-27 13:53:07,748 INFO  - Starting java
+2021-02-27 13:53:08,139 INFO  - Started process java (7696).
+2021-02-27 13:53:08,258 INFO  - Service started successfully.
+2021-02-28 17:18:06,123 DEBUG - Starting WinSW in service mode.
+2021-02-28 17:18:06,601 INFO  - Service ' river-site  (river-site)' was refreshed successfully.
+2021-02-28 17:18:06,767 INFO  - Starting java
+2021-02-28 17:18:07,434 INFO  - Started process java (7520).
+2021-02-28 17:18:07,684 INFO  - Service started successfully.
+2021-02-28 23:09:36,443 INFO  - Stopping river-site
+2021-02-28 23:09:36,470 DEBUG - ProcessKill 7520
+2021-02-28 23:09:36,766 INFO  - Child process 'java (7520)' canceled with code 143.
+2021-02-28 23:09:36,779 INFO  - Finished river-site
+2021-02-28 23:09:36,779 INFO  - Service was shut down successfully.
+2021-03-01 08:44:27,443 DEBUG - Starting WinSW in service mode.
+2021-03-01 08:44:27,827 INFO  - Service ' river-site  (river-site)' was refreshed successfully.
+2021-03-01 08:44:28,017 INFO  - Starting java
+2021-03-01 08:44:28,308 INFO  - Started process java (3716).
+2021-03-01 08:44:28,497 INFO  - Service started successfully.
+2021-03-01 09:56:34,374 DEBUG - Starting WinSW in service mode.
+2021-03-01 09:56:34,697 INFO  - Service ' river-site  (river-site)' was refreshed successfully.
+2021-03-01 09:56:34,785 INFO  - Starting java
+2021-03-01 09:56:35,324 INFO  - Started process java (1808).
+2021-03-01 09:56:35,701 INFO  - Service started successfully.
+2021-03-01 13:44:34,843 INFO  - Stopping river-site
+2021-03-01 13:44:34,885 DEBUG - ProcessKill 1808
+2021-03-01 13:44:35,172 INFO  - Child process 'java (1808)' canceled with code 143.
+2021-03-01 13:44:35,187 INFO  - Finished river-site
+2021-03-01 13:44:35,188 INFO  - Service was shut down successfully.
+2021-03-01 13:49:45,622 DEBUG - Starting WinSW in service mode.
+2021-03-01 13:49:45,909 INFO  - Service ' river-site  (river-site)' was refreshed successfully.
+2021-03-01 13:49:46,006 INFO  - Starting java
+2021-03-01 13:49:46,535 INFO  - Started process java (5148).
+2021-03-01 13:49:46,764 INFO  - Service started successfully.
+2021-03-01 22:51:16,260 INFO  - Stopping river-site
+2021-03-01 22:51:16,595 DEBUG - ProcessKill 5148
+2021-03-01 22:51:20,174 INFO  - Child process 'java (5148)' canceled with code 143.
+2021-03-01 22:51:20,746 INFO  - Finished river-site
+2021-03-01 22:51:20,749 INFO  - Service was shut down successfully.
+2021-03-02 09:35:58,869 DEBUG - Starting WinSW in service mode.
+2021-03-02 09:35:59,147 INFO  - Service ' river-site  (river-site)' was refreshed successfully.
+2021-03-02 09:35:59,237 INFO  - Starting java
+2021-03-02 09:35:59,843 INFO  - Started process java (7056).
+2021-03-02 09:35:59,960 INFO  - Service started successfully.

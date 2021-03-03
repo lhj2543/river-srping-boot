@@ -1,0 +1,3 @@
+2021-03-02 09:36:24 |WARN  |main |Bootstrap.java:68 |io.undertow.websockets.jsr |UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-03-02 09:36:44 |WARN  |main |ParameterDataTypeReader.java:92 |springfox.documentation.spring.web.readers.parameter.ParameterDataTypeReader |Trying to infer dataType java.lang.String[]
+2021-03-02 09:36:46 |WARN  |main |ParameterDataTypeReader.java:92 |springfox.documentation.spring.web.readers.parameter.ParameterDataTypeReader |Trying to infer dataType java.lang.String[]

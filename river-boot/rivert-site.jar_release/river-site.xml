@@ -1,0 +1,20 @@
+<service>
+ <id>river-site</id>
+ <name> river-site </name>
+ <description>river-site service.</description>
+ <env name="JAVA_HOME" value="%JAVA_HOME%"/>
+ <executable>java</executable>
+ <arguments> -Dfile.encoding=utf-8 -jar D:/river-boot/rivert-site.jar_release/rivert-site-api.jar </arguments>
+ <startmode>Automatic</startmode>
+ <logpath>%BASE%\logs</logpath>
+ 
+ <!-- 控制日志-->
+ <log mode="roll-by-size">
+ <!-- 一个日志文件大小1024k * 10，单位是k-->
+  <sizeThreshold>10240</sizeThreshold>
+  <!-- 一共有5个日志文件，-->
+  <keepFiles>5</keepFiles>
+ </log>
+ <!-- 控制日志-->
+ 
+</service>

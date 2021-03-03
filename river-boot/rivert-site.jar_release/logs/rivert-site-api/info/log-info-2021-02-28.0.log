@@ -1,0 +1,471 @@
+2021-02-28 17:18:14 |INFO  |main |StartupInfoLogger.java:55 |com.river.site.SiteApplication |Starting SiteApplication on DESKTOP-AFTLI5O with PID 7520 (D:\river-boot\rivert-site.jar_release\rivert-site-api.jar started by DESKTOP-AFTLI5O$ in D:\river-boot\rivert-site.jar_release)
+2021-02-28 17:18:14 |INFO  |main |SpringApplication.java:655 |com.river.site.SiteApplication |The following profiles are active: dev
+2021-02-28 17:18:49 |INFO  |main |AutoProxyRegistrar.java:83 |org.springframework.context.annotation.AutoProxyRegistrar |AutoProxyRegistrar was imported but no annotations were found having both 'mode' and 'proxyTargetClass' attributes of type AdviceMode and boolean respectively. This means that auto proxy creator registration and configuration may not have occurred as intended, and components may not be proxied as expected. Check to ensure that AutoProxyRegistrar has been @Import'ed on the same class where these annotations are declared; otherwise remove the import of AutoProxyRegistrar altogether.
+2021-02-28 17:18:51 |INFO  |main |RepositoryConfigurationDelegate.java:249 |org.springframework.data.repository.config.RepositoryConfigurationDelegate |Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-02-28 17:18:51 |INFO  |main |RepositoryConfigurationDelegate.java:127 |org.springframework.data.repository.config.RepositoryConfigurationDelegate |Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021-02-28 17:18:51 |INFO  |main |RepositoryConfigurationDelegate.java:187 |org.springframework.data.repository.config.RepositoryConfigurationDelegate |Finished Spring Data repository scanning in 70ms. Found 0 Redis repository interfaces.
+2021-02-28 17:18:58 |INFO  |main |PostProcessorRegistrationDelegate.java:335 |org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker |Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@2141a12' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-02-28 17:18:58 |INFO  |main |PostProcessorRegistrationDelegate.java:335 |org.springframework.context.support.PostProcessorRegistrationDelegate$BeanPostProcessorChecker |Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2021-02-28 17:19:06 |INFO  |main |ServletContextImpl.java:364 |io.undertow.servlet |Initializing Spring embedded WebApplicationContext
+2021-02-28 17:19:06 |INFO  |main |ServletWebServerApplicationContext.java:285 |org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext |Root WebApplicationContext: initialization completed in 51629 ms
+2021-02-28 17:19:22 |INFO  |main |QuartzInitializerListener.java:147 |org.quartz.ee.servlet.QuartzInitializerListener |Quartz Initializer Servlet loaded, initializing Scheduler...
+2021-02-28 17:19:23 |INFO  |main |StdSchedulerFactory.java:1172 |org.quartz.impl.StdSchedulerFactory |Using default implementation for ThreadExecutor
+2021-02-28 17:19:23 |INFO  |main |SimpleThreadPool.java:268 |org.quartz.simpl.SimpleThreadPool |Job execution threads will use class loader of thread: main
+2021-02-28 17:19:23 |INFO  |main |SchedulerSignalerImpl.java:61 |org.quartz.core.SchedulerSignalerImpl |Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2021-02-28 17:19:23 |INFO  |main |QuartzScheduler.java:240 |org.quartz.core.QuartzScheduler |Quartz Scheduler v.2.2.3 created.
+2021-02-28 17:19:23 |INFO  |main |RAMJobStore.java:155 |org.quartz.simpl.RAMJobStore |RAMJobStore initialized.
+2021-02-28 17:19:23 |INFO  |main |QuartzScheduler.java:305 |org.quartz.core.QuartzScheduler |Scheduler meta-data: Quartz Scheduler (v2.2.3) 'DefaultQuartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-02-28 17:19:23 |INFO  |main |StdSchedulerFactory.java:1327 |org.quartz.impl.StdSchedulerFactory |Quartz scheduler 'DefaultQuartzScheduler' initialized from default resource file in Quartz package: 'quartz.properties'
+2021-02-28 17:19:23 |INFO  |main |StdSchedulerFactory.java:1331 |org.quartz.impl.StdSchedulerFactory |Quartz scheduler version: 2.2.3
+2021-02-28 17:19:23 |INFO  |main |QuartzScheduler.java:575 |org.quartz.core.QuartzScheduler |Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED started.
+2021-02-28 17:19:23 |INFO  |main |QuartzInitializerListener.java:199 |org.quartz.ee.servlet.QuartzInitializerListener |Scheduler has been started...
+2021-02-28 17:19:23 |INFO  |main |QuartzInitializerListener.java:217 |org.quartz.ee.servlet.QuartzInitializerListener |Storing the Quartz Scheduler Factory in the servlet context at key: org.quartz.impl.StdSchedulerFactory.KEY
+2021-02-28 17:19:26 |INFO  |main |TestController.java:35 |com.river.site.controller.publics.TestController |线程池初始化
+2021-02-28 17:19:26 |INFO  |main |TestController.java:56 |com.river.site.controller.publics.TestController |线程池初始化完了
+2021-02-28 17:19:26 |INFO  |main |StdSchedulerFactory.java:1172 |org.quartz.impl.StdSchedulerFactory |Using default implementation for ThreadExecutor
+2021-02-28 17:19:26 |INFO  |main |SimpleThreadPool.java:268 |org.quartz.simpl.SimpleThreadPool |Job execution threads will use class loader of thread: main
+2021-02-28 17:19:26 |INFO  |main |SchedulerSignalerImpl.java:61 |org.quartz.core.SchedulerSignalerImpl |Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2021-02-28 17:19:26 |INFO  |main |QuartzScheduler.java:240 |org.quartz.core.QuartzScheduler |Quartz Scheduler v.2.2.3 created.
+2021-02-28 17:19:26 |INFO  |main |ShutdownHookPlugin.java:120 |org.quartz.plugins.management.ShutdownHookPlugin |Registering Quartz shutdown hook.
+2021-02-28 17:19:26 |INFO  |main |HikariDataSource.java:110 |com.zaxxer.hikari.HikariDataSource |HikariPool-1 - Starting...
+2021-02-28 17:19:27 |INFO  |main |HikariDataSource.java:123 |com.zaxxer.hikari.HikariDataSource |HikariPool-1 - Start completed.
+2021-02-28 17:19:27 |INFO  |main |JobStoreSupport.java:667 |org.springframework.scheduling.quartz.LocalDataSourceJobStore |Using db table-based data access locking (synchronization).
+2021-02-28 17:19:27 |INFO  |main |JobStoreCMT.java:145 |org.springframework.scheduling.quartz.LocalDataSourceJobStore |JobStoreCMT initialized.
+2021-02-28 17:19:28 |INFO  |main |QuartzScheduler.java:305 |org.quartz.core.QuartzScheduler |Scheduler meta-data: Quartz Scheduler (v2.2.3) 'schedulerFactoryBean' with instanceId 'DESKTOP-AFTLI5O1614503966813'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 20 threads.
+  Using job-store 'org.springframework.scheduling.quartz.LocalDataSourceJobStore' - which supports persistence. and is clustered.
+
+2021-02-28 17:19:28 |INFO  |main |StdSchedulerFactory.java:1327 |org.quartz.impl.StdSchedulerFactory |Quartz scheduler 'schedulerFactoryBean' initialized from an externally provided properties instance.
+2021-02-28 17:19:28 |INFO  |main |StdSchedulerFactory.java:1331 |org.quartz.impl.StdSchedulerFactory |Quartz scheduler version: 2.2.3
+2021-02-28 17:19:28 |INFO  |main |QuartzScheduler.java:2311 |org.quartz.core.QuartzScheduler |JobFactory set to: com.river.site.quartz.JobFactory@7e3f95fe
+2021-02-28 17:19:33 |INFO  |main |EndpointLinksResolver.java:58 |org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver |Exposing 2 endpoint(s) beneath base path '/actuator'
+2021-02-28 17:19:36 |INFO  |main |DefaultSecurityFilterChain.java:43 |org.springframework.security.web.DefaultSecurityFilterChain |Creating filter chain: Ant [pattern='/css/**'], []
+2021-02-28 17:19:37 |INFO  |main |DefaultSecurityFilterChain.java:43 |org.springframework.security.web.DefaultSecurityFilterChain |Creating filter chain: OrRequestMatcher [requestMatchers=[Ant [pattern='/oauth/token'], Ant [pattern='/oauth/token_key'], Ant [pattern='/oauth/check_token']]], [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4acf72b6, org.springframework.security.web.context.SecurityContextPersistenceFilter@12f3afb5, org.springframework.security.web.header.HeaderWriterFilter@610db97e, org.springframework.security.web.authentication.logout.LogoutFilter@3aaf4f07, org.springframework.security.oauth2.provider.client.ClientCredentialsTokenEndpointFilter@1a38ba58, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@323e8306, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2c22a348, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@74d7184a, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@7561db12, org.springframework.security.web.session.SessionManagementFilter@3fabf088, org.springframework.security.web.access.ExceptionTranslationFilter@3abd581e, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@3a7704c]
+2021-02-28 17:19:37 |INFO  |main |DefaultSecurityFilterChain.java:43 |org.springframework.security.web.DefaultSecurityFilterChain |Creating filter chain: org.springframework.security.oauth2.config.annotation.web.configuration.ResourceServerConfiguration$NotOAuthRequestMatcher@3c1e3314, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4b770e40, org.springframework.security.web.context.SecurityContextPersistenceFilter@47a64f7d, org.springframework.security.web.header.HeaderWriterFilter@3a45c42a, org.springframework.security.web.authentication.logout.LogoutFilter@33aa93c, org.springframework.security.oauth2.provider.authentication.OAuth2AuthenticationProcessingFilter@106faf11, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@33d05366, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@27a0a5a2, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@78e16155, org.springframework.security.web.session.SessionManagementFilter@36dce7ed, org.springframework.security.web.access.ExceptionTranslationFilter@5af5def9, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@26f143ed]
+2021-02-28 17:19:37 |INFO  |main |DefaultSecurityFilterChain.java:43 |org.springframework.security.web.DefaultSecurityFilterChain |Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@271f18d3, org.springframework.security.web.context.SecurityContextPersistenceFilter@622ef26a, org.springframework.security.web.header.HeaderWriterFilter@3ef41c66, org.springframework.security.web.authentication.logout.LogoutFilter@3d526ad9, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@6a175569, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@41de5768, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5f577419, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6bd51ed8, org.springframework.security.web.session.SessionManagementFilter@6b739528, org.springframework.security.web.access.ExceptionTranslationFilter@13c612bd, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@49ef32e0]
+2021-02-28 17:19:38 |INFO  |main |PropertySourcedRequestMappingHandlerMapping.java:69 |springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping |Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2021-02-28 17:19:39 |INFO  |main |ExecutorConfigurationSupport.java:181 |org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor |Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-28 17:19:44 |INFO  |main |Undertow.java:117 |io.undertow |starting server: Undertow - 2.1.3.Final
+2021-02-28 17:19:44 |INFO  |main |Xnio.java:95 |org.xnio |XNIO version 3.8.0.Final
+2021-02-28 17:19:44 |INFO  |main |NioXnio.java:59 |org.xnio.nio |XNIO NIO Implementation Version 3.8.0.Final
+2021-02-28 17:19:44 |INFO  |main |Version.java:52 |org.jboss.threads |JBoss Threads version 3.1.0.Final
+2021-02-28 17:19:44 |INFO  |main |UndertowWebServer.java:133 |org.springframework.boot.web.embedded.undertow.UndertowWebServer |Undertow started on port(s) 9999 (http)
+2021-02-28 17:19:44 |INFO  |main |DocumentationPluginsBootstrapper.java:160 |springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper |Context refreshed
+2021-02-28 17:19:44 |INFO  |main |DocumentationPluginsBootstrapper.java:163 |springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper |Found 2 custom documentation plugin(s)
+2021-02-28 17:19:45 |INFO  |main |ApiListingReferenceScanner.java:41 |springfox.documentation.spring.web.scanners.ApiListingReferenceScanner |Scanning for api listing references
+2021-02-28 17:19:46 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: deleteUsingPOST_1
+2021-02-28 17:19:46 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: modifyUsingPOST_1
+2021-02-28 17:19:46 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingGET_1
+2021-02-28 17:19:46 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingHEAD_1
+2021-02-28 17:19:46 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPOST_1
+2021-02-28 17:19:46 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPUT_1
+2021-02-28 17:19:46 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPATCH_1
+2021-02-28 17:19:46 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingDELETE_1
+2021-02-28 17:19:46 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingOPTIONS_1
+2021-02-28 17:19:46 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingTRACE_1
+2021-02-28 17:19:46 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: deleteUsingPOST_2
+2021-02-28 17:19:46 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingGET_2
+2021-02-28 17:19:46 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingHEAD_2
+2021-02-28 17:19:46 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPOST_2
+2021-02-28 17:19:46 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPUT_2
+2021-02-28 17:19:46 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPATCH_2
+2021-02-28 17:19:46 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingDELETE_2
+2021-02-28 17:19:46 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingOPTIONS_2
+2021-02-28 17:19:46 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingTRACE_2
+2021-02-28 17:19:46 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: saveUsingPOST_1
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: deleteUsingPOST_3
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_1
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingHEAD_1
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingPOST_1
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingPUT_1
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingPATCH_1
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingDELETE_1
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingOPTIONS_1
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingTRACE_1
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: modifyUsingPOST_2
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingGET_3
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingHEAD_3
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPOST_3
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPUT_3
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPATCH_3
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingDELETE_3
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingOPTIONS_3
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingTRACE_3
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingGET_4
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingHEAD_4
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPOST_4
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPUT_4
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPATCH_4
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingDELETE_4
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingOPTIONS_4
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingTRACE_4
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: saveUsingPOST_2
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: deleteUsingPOST_4
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_2
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingHEAD_2
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingPOST_2
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingPUT_2
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingPATCH_2
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingDELETE_2
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingOPTIONS_2
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingTRACE_2
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: modifyUsingPOST_3
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingGET_5
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingHEAD_5
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPOST_5
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPUT_5
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPATCH_5
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingDELETE_5
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingOPTIONS_5
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingTRACE_5
+2021-02-28 17:19:47 |INFO  |main |ApiListingReferenceScanner.java:41 |springfox.documentation.spring.web.scanners.ApiListingReferenceScanner |Scanning for api listing references
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: checkUsingGET_1
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: checkUsingGET_2
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: checkUsingGET_3
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: checkUsingGET_4
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: checkUsingGET_5
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: checkUsingGET_6
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: checkUsingGET_7
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: deleteUsingPOST_5
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: downloadUsingPOST_1
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: downloadUsingPOST_2
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: downloadUsingPOST_3
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: downloadUsingPOST_4
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: downloadUsingPOST_5
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: downloadUsingPOST_6
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: downloadUsingPOST_7
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: download2UsingPOST_1
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: download2UsingPOST_2
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: download2UsingPOST_3
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: download2UsingPOST_4
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: download2UsingPOST_5
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: download2UsingPOST_6
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: download2UsingPOST_7
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: initDataUsingGET_1
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: initDataUsingGET_2
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: initDataUsingGET_3
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: initDataUsingGET_4
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: initDataUsingGET_5
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: initDataUsingGET_6
+2021-02-28 17:19:47 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: initDataUsingGET_7
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: deleteUsingPOST_6
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingGET_6
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingHEAD_6
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPOST_6
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPUT_6
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPATCH_6
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingDELETE_6
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingOPTIONS_6
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingTRACE_6
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: saveUsingPOST_3
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: deleteUsingPOST_7
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_3
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingHEAD_3
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingPOST_3
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingPUT_3
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingPATCH_3
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingDELETE_3
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingOPTIONS_3
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingTRACE_3
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: modifyUsingPOST_4
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingGET_7
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingHEAD_7
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPOST_7
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPUT_7
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPATCH_7
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingDELETE_7
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingOPTIONS_7
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingTRACE_7
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: handleUsingGET_1
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: handleUsingGET_2
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: loadTopMenusUsingPOST_1
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: exportUsingPOST_1
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: exportUsingPOST_2
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: exportUsingPOST_3
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: exportUsingPOST_4
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: exportUsingPOST_5
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: exportUsingPOST_6
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: exportUsingPOST_7
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_4
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_5
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_6
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_7
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_8
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_9
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_10
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_11
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getNotebookCategoryTreeUsingGET_1
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getNotebookCategoryTreeUsingGET_2
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getNotebookCategoryTreeUsingGET_3
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getNotebookCategoryTreeUsingGET_4
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getNotebookCategoryTreeUsingGET_5
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getNotebookCategoryTreeUsingGET_6
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getNotebookCategoryTreeUsingGET_7
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_12
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: deleteUsingPOST_8
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingGET_8
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: saveUsingPOST_4
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: deleteUsingPOST_9
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_13
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_14
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_15
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_16
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_17
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_18
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_19
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_20
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: modifyUsingPOST_5
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPOST_8
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: deleteUsingPOST_10
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_21
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_22
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_23
+2021-02-28 17:19:48 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_24
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_25
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_26
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_27
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_28
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getTargetMenusUsingGET_1
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getTargetMenusUsingGET_2
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getTargetMenusUsingGET_3
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getTargetMenusUsingGET_4
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getTargetMenusUsingGET_5
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getTargetMenusUsingGET_6
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getTargetMenusUsingGET_7
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: modifyUsingPOST_6
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPOST_9
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: deleteUsingDELETE_1
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: deleteByTargetIdsUsingDELETE_1
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: deletesUsingDELETE_1
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getListByTargetIdUsingGET_1
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: modifyUsingPOST_7
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: updateTargetIdUsingPOST_1
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: viewUsingGET_1
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: deleteUsingPOST_11
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingGET_9
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingHEAD_8
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPOST_10
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPUT_8
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPATCH_8
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingDELETE_8
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingOPTIONS_8
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingTRACE_8
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: saveUsingPOST_5
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: deleteUsingPOST_12
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getSysItemByCategoryNameUsingPOST_1
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: modifyUsingPOST_8
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingGET_10
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingHEAD_9
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPOST_11
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPUT_9
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPATCH_9
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingDELETE_9
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingOPTIONS_9
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingTRACE_9
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: deleteUsingPOST_13
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_29
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingHEAD_4
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingPOST_4
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingPUT_4
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingPATCH_4
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingDELETE_4
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingOPTIONS_4
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingTRACE_4
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getMaxSortKeyUsingGET_1
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getUserMenuUsingPOST_1
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingGET_11
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingHEAD_10
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPOST_12
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPUT_10
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPATCH_10
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingDELETE_10
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingOPTIONS_10
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingTRACE_10
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: saveUsingPOST_6
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: deleteUsingPOST_14
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_30
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingHEAD_5
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingPOST_5
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingPUT_5
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingPATCH_5
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingDELETE_5
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingOPTIONS_5
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingTRACE_5
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: modifyUsingPOST_9
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingGET_12
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingHEAD_11
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPOST_13
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPUT_11
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPATCH_11
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingDELETE_11
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingOPTIONS_11
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingTRACE_11
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingGET_13
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingHEAD_12
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPOST_14
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPUT_12
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPATCH_12
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingDELETE_12
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingOPTIONS_12
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingTRACE_12
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: saveUsingPOST_7
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: delRoleUsingDELETE_1
+2021-02-28 17:19:49 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: deleteUsingPOST_15
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingGET_31
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingHEAD_6
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingPOST_6
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingPUT_6
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingPATCH_6
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingDELETE_6
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingOPTIONS_6
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: detailUsingTRACE_6
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: getLoginUserUsingPOST_1
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: modifyUsingPOST_10
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingGET_14
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingHEAD_13
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPOST_15
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPUT_13
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingPATCH_13
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingDELETE_13
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingOPTIONS_13
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: queryUsingTRACE_13
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: listUsingGET_1
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: listUsingGET_2
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: listUsingGET_3
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: listUsingGET_4
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: listUsingGET_5
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: listUsingGET_6
+2021-02-28 17:19:50 |INFO  |main |CachingOperationNameGenerator.java:40 |springfox.documentation.spring.web.readers.operation.CachingOperationNameGenerator |Generating unique operation named: listUsingGET_7
+2021-02-28 17:19:50 |INFO  |main |SchedulerFactoryBean.java:732 |org.springframework.scheduling.quartz.SchedulerFactoryBean |Will start Quartz Scheduler [schedulerFactoryBean] in 1 seconds
+2021-02-28 17:19:50 |INFO  |main |StartupInfoLogger.java:61 |com.river.site.SiteApplication |Started SiteApplication in 100.128 seconds (JVM running for 103.168)
+2021-02-28 17:19:51 |INFO  |Quartz Scheduler [schedulerFactoryBean] |SchedulerFactoryBean.java:748 |org.springframework.scheduling.quartz.SchedulerFactoryBean |Starting Quartz Scheduler now, after delay of 1 seconds
+2021-02-28 17:19:51 |INFO  |Quartz Scheduler [schedulerFactoryBean] |JobStoreSupport.java:3583 |org.springframework.scheduling.quartz.LocalDataSourceJobStore |ClusterManager: detected 1 failed or restarted instances.
+2021-02-28 17:19:51 |INFO  |Quartz Scheduler [schedulerFactoryBean] |JobStoreSupport.java:3442 |org.springframework.scheduling.quartz.LocalDataSourceJobStore |ClusterManager: Scanning for instance "DESKTOP-AFTLI5O1614405251361"'s failed in-progress jobs.
+2021-02-28 17:19:51 |INFO  |Quartz Scheduler [schedulerFactoryBean] |QuartzScheduler.java:575 |org.quartz.core.QuartzScheduler |Scheduler schedulerFactoryBean_$_DESKTOP-AFTLI5O1614503966813 started.
+2021-02-28 17:26:19 |INFO  |XNIO-1 task-1 |ServletContextImpl.java:364 |io.undertow.servlet |Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-02-28 17:26:19 |INFO  |XNIO-1 task-1 |FrameworkServlet.java:525 |org.springframework.web.servlet.DispatcherServlet |Initializing Servlet 'dispatcherServlet'
+2021-02-28 17:26:19 |INFO  |XNIO-1 task-1 |FrameworkServlet.java:547 |org.springframework.web.servlet.DispatcherServlet |Completed initialization in 63 ms
+2021-02-28 17:26:20 |INFO  |XNIO-1 task-1 |PublicController.java:51 |com.river.system.controller.PublicController |加载个人主页菜单开始
+2021-02-28 17:26:20 |INFO  |XNIO-1 task-2 |PublicController.java:51 |com.river.system.controller.PublicController |加载个人主页菜单开始
+2021-02-28 17:26:25 |INFO  |XNIO-1 task-3 |IndexController.java:59 |com.river.site.controller.publics.IndexController |加载首页数据开始
+2021-02-28 17:26:25 |INFO  |XNIO-1 task-3 |HikariDataSource.java:110 |com.zaxxer.hikari.HikariDataSource |HikariPool-2 - Starting...
+2021-02-28 17:26:25 |INFO  |XNIO-1 task-3 |HikariDataSource.java:123 |com.zaxxer.hikari.HikariDataSource |HikariPool-2 - Start completed.
+2021-02-28 17:26:25 |INFO  |XNIO-1 task-2 |PublicController.java:82 |com.river.system.controller.PublicController |加载个人主页菜单结束
+2021-02-28 17:26:25 |INFO  |XNIO-1 task-1 |PublicController.java:82 |com.river.system.controller.PublicController |加载个人主页菜单结束
+2021-02-28 17:26:25 |INFO  |XNIO-1 task-3 |IndexController.java:105 |com.river.site.controller.publics.IndexController |加载首页数据结束
+2021-02-28 17:26:28 |INFO  |XNIO-1 task-3 |PublicSiteConnentController.java:46 |com.river.site.controller.publics.PublicSiteConnentController |查询站点内容列表开始
+2021-02-28 17:26:30 |INFO  |XNIO-1 task-3 |PublicNotebookController.java:51 |com.river.site.controller.publics.PublicNotebookController |获取笔记分类树
+2021-02-28 17:26:30 |INFO  |XNIO-1 task-3 |PublicNotebookController.java:74 |com.river.site.controller.publics.PublicNotebookController |查询笔记列表开始
+2021-02-28 17:26:31 |INFO  |XNIO-1 task-3 |PublicSiteConnentController.java:46 |com.river.site.controller.publics.PublicSiteConnentController |查询站点内容列表开始
+2021-02-28 17:29:41 |INFO  |XNIO-1 task-2 |CheckTokenEndpoint.java:92 |org.springframework.security.oauth2.provider.endpoint.CheckTokenEndpoint |Handling error: InvalidTokenException, Token has expired
+2021-02-28 17:29:41 |INFO  |XNIO-1 task-3 |RiverAuthenticationFailureEvenHandler.java:34 |com.river.security.handler.RiverAuthenticationFailureEvenHandler |用户：access-token 登录失败，异常：d80ba699-6d9a-4462-906d-3e594c55a919
+2021-02-28 17:29:42 |INFO  |XNIO-1 task-3 |PublicController.java:51 |com.river.system.controller.PublicController |加载个人主页菜单开始
+2021-02-28 17:29:47 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 17:29:47 |INFO  |XNIO-1 task-3 |JdbcTokenStore.java:168 |org.springframework.security.oauth2.provider.token.store.JdbcTokenStore |Failed to find access token for token d60b6fb9-accf-40b1-a9cb-c22c7432e2d2
+2021-02-28 17:29:47 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 17:29:47 |INFO  |XNIO-1 task-3 |SysMenuController.java:62 |com.river.system.controller.SysMenuController |获取用户菜单开始，userName=river
+2021-02-28 17:29:51 |INFO  |XNIO-1 task-3 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 17:29:51 |INFO  |XNIO-1 task-3 |NotebookCategoryController.java:46 |com.river.site.controller.NotebookCategoryController |查询笔记分类列表开始
+2021-02-28 17:29:51 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 17:29:51 |INFO  |XNIO-1 task-1 |NotebookController.java:43 |com.river.site.controller.NotebookController |查询笔记列表开始
+2021-02-28 17:29:53 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 17:29:53 |INFO  |XNIO-1 task-1 |NotebookController.java:43 |com.river.site.controller.NotebookController |查询笔记列表开始
+2021-02-28 17:29:58 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 17:29:58 |INFO  |XNIO-1 task-1 |NotebookController.java:80 |com.river.site.controller.NotebookController |查询笔记详情开始
+2021-02-28 17:29:58 |INFO  |XNIO-1 task-1 |NotebookController.java:97 |com.river.site.controller.NotebookController |查询笔记详情结束
+2021-02-28 17:29:59 |INFO  |XNIO-1 task-1 |UeditorController.java:30 |com.river.site.controller.publics.UeditorController |ueditor插件相关的请求开始
+2021-02-28 17:47:31 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 17:47:31 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 17:58:24 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 17:58:24 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 18:11:38 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 18:11:38 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 18:14:08 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 18:14:08 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 18:20:42 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 18:20:42 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 18:22:33 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 18:22:33 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 18:22:33 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 18:22:33 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 18:23:49 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 18:23:49 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 18:23:59 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 18:23:59 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 18:32:45 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 18:32:45 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 18:37:17 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 18:37:17 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 18:41:16 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 18:41:16 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 20:24:56 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 20:24:56 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 20:31:27 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 20:31:27 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 20:38:27 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 20:38:27 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 20:40:51 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 20:40:51 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 20:41:47 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 20:41:47 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 20:41:52 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 20:41:52 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 20:48:56 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 20:48:56 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 21:01:15 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 21:01:15 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 21:04:07 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 21:04:07 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 21:58:45 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 21:58:45 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 21:59:00 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 21:59:00 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 22:05:32 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-28 22:05:32 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-28 23:09:36 |INFO  |lettuce-nioEventLoop-4-1 |AbstractInternalLogger.java:217 |io.lettuce.core.protocol.CommandHandler |null Unexpected exception during request: java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source)
+	at sun.nio.ch.IOUtil.read(Unknown Source)
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1133)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:576)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Unknown Source)
+2021-02-28 23:09:36 |INFO  |Quartz Shutdown-Hook schedulerFactoryBean |ShutdownHookPlugin.java:126 |org.quartz.plugins.management.ShutdownHookPlugin |Shutting down Quartz...
+2021-02-28 23:09:36 |INFO  |Quartz Shutdown-Hook schedulerFactoryBean |QuartzScheduler.java:694 |org.quartz.core.QuartzScheduler |Scheduler schedulerFactoryBean_$_DESKTOP-AFTLI5O1614503966813 shutting down.
+2021-02-28 23:09:36 |INFO  |Quartz Shutdown-Hook schedulerFactoryBean |QuartzScheduler.java:613 |org.quartz.core.QuartzScheduler |Scheduler schedulerFactoryBean_$_DESKTOP-AFTLI5O1614503966813 paused.
+2021-02-28 23:09:36 |INFO  |SpringContextShutdownHook |Undertow.java:252 |io.undertow |stopping server: Undertow - 2.1.3.Final
+2021-02-28 23:09:36 |INFO  |SpringContextShutdownHook |ServletContextImpl.java:364 |io.undertow.servlet |Destroying Spring FrameworkServlet 'dispatcherServlet'
+2021-02-28 23:09:36 |INFO  |SpringContextShutdownHook |QuartzScheduler.java:694 |org.quartz.core.QuartzScheduler |Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutting down.
+2021-02-28 23:09:36 |INFO  |SpringContextShutdownHook |QuartzScheduler.java:613 |org.quartz.core.QuartzScheduler |Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED paused.
+2021-02-28 23:09:36 |INFO  |SpringContextShutdownHook |QuartzScheduler.java:771 |org.quartz.core.QuartzScheduler |Scheduler DefaultQuartzScheduler_$_NON_CLUSTERED shutdown complete.
+2021-02-28 23:09:36 |INFO  |SpringContextShutdownHook |QuartzInitializerListener.java:264 |org.quartz.ee.servlet.QuartzInitializerListener |Quartz Scheduler successful shutdown.
+2021-02-28 23:09:36 |INFO  |SpringContextShutdownHook |ExecutorConfigurationSupport.java:218 |org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor |Shutting down ExecutorService 'applicationTaskExecutor'
+2021-02-28 23:09:36 |INFO  |SpringContextShutdownHook |SchedulerFactoryBean.java:845 |org.springframework.scheduling.quartz.SchedulerFactoryBean |Shutting down Quartz Scheduler
+2021-02-28 23:09:36 |INFO  |SpringContextShutdownHook |HikariDataSource.java:350 |com.zaxxer.hikari.HikariDataSource |HikariPool-1 - Shutdown initiated...
+2021-02-28 23:09:36 |INFO  |SpringContextShutdownHook |HikariDataSource.java:352 |com.zaxxer.hikari.HikariDataSource |HikariPool-1 - Shutdown completed.
+2021-02-28 23:09:36 |INFO  |SpringContextShutdownHook |HikariDataSource.java:350 |com.zaxxer.hikari.HikariDataSource |HikariPool-2 - Shutdown initiated...
+2021-02-28 23:09:36 |INFO  |Quartz Shutdown-Hook schedulerFactoryBean |QuartzScheduler.java:382 |org.quartz.core.QuartzScheduler |Scheduler unregistered from name 'quartz:type=QuartzScheduler,name=schedulerFactoryBean,instance=DESKTOP-AFTLI5O1614503966813' in the local MBeanServer.
+2021-02-28 23:09:36 |INFO  |Quartz Shutdown-Hook schedulerFactoryBean |QuartzScheduler.java:771 |org.quartz.core.QuartzScheduler |Scheduler schedulerFactoryBean_$_DESKTOP-AFTLI5O1614503966813 shutdown complete.
+2021-02-28 23:09:36 |INFO  |SpringContextShutdownHook |HikariDataSource.java:352 |com.zaxxer.hikari.HikariDataSource |HikariPool-2 - Shutdown completed.

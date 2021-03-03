@@ -1,0 +1,9 @@
+2021-02-27 08:57:33 |WARN  |main |Bootstrap.java:68 |io.undertow.websockets.jsr |UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-02-27 09:02:50 |WARN  |main |ParameterDataTypeReader.java:92 |springfox.documentation.spring.web.readers.parameter.ParameterDataTypeReader |Trying to infer dataType java.lang.String[]
+2021-02-27 09:03:41 |WARN  |main |ParameterDataTypeReader.java:92 |springfox.documentation.spring.web.readers.parameter.ParameterDataTypeReader |Trying to infer dataType java.lang.String[]
+2021-02-27 12:35:54 |WARN  |main |Bootstrap.java:68 |io.undertow.websockets.jsr |UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-02-27 12:40:22 |WARN  |main |ParameterDataTypeReader.java:92 |springfox.documentation.spring.web.readers.parameter.ParameterDataTypeReader |Trying to infer dataType java.lang.String[]
+2021-02-27 12:40:55 |WARN  |main |ParameterDataTypeReader.java:92 |springfox.documentation.spring.web.readers.parameter.ParameterDataTypeReader |Trying to infer dataType java.lang.String[]
+2021-02-27 13:53:50 |WARN  |main |Bootstrap.java:68 |io.undertow.websockets.jsr |UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-02-27 13:54:34 |WARN  |main |ParameterDataTypeReader.java:92 |springfox.documentation.spring.web.readers.parameter.ParameterDataTypeReader |Trying to infer dataType java.lang.String[]
+2021-02-27 13:54:40 |WARN  |main |ParameterDataTypeReader.java:92 |springfox.documentation.spring.web.readers.parameter.ParameterDataTypeReader |Trying to infer dataType java.lang.String[]

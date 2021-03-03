@@ -1,0 +1,75 @@
+/* ==================首页布局========================= */
+.manage-header{
+    background: #373B3A !important;
+    border-radius: 0 !important;
+}
+.layout{
+    background: #f5f7f9;
+    position: relative;
+    overflow: hidden;
+    height: 100%;
+}
+.layout-logo{
+    width: 150px;
+    height: 30px;
+    line-height: 30px;
+    /* background: #5b6270; */
+    border-radius: 3px;
+    float: left;
+    position: relative;
+    top: 15px;
+    left: 0px;
+    color: #fff;
+    font-size: 16px;
+}
+.logo{
+    font-size: 2.5rem;
+    vertical-align: middle;
+  }
+.log-name{
+    font-size: 1.5rem;
+    font-family: Bradley Hand ITC,High Tower Text;
+    font-weight: bold;
+    vertical-align: middle;
+  }
+.layout-nav{
+   
+}
+.layout-footer-center{
+    text-align: right;
+    padding: 15px 50px;
+}
+.top-menus *{
+    color: #fff !important;
+}
+
+.top-menus ul{
+     background: none;
+     border: none;
+     height: 0;
+}
+
+.top-menus li:hover,.top-menus li:hover *,.top-menus .ivu-menu-item-active,.top-menus .ivu-menu-item-active *{
+    color: #f60 !important;
+    border-bottom: 1px solid #373B3A !important;
+}
+/* ==================首页布局========================= */
+
+.content-card .card-body{
+    max-height: 900px;
+    overflow: auto;
+
+}
+.content-card .header{
+    padding:18px;
+    border-bottom:1px solid #dcdee2;
+}
+
+.content-table{
+    
+}
+
+.content-page{
+    padding: 20px;
+    text-align: center;
+}

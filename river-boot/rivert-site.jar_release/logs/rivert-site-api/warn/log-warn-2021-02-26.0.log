@@ -1,0 +1,10 @@
+2021-02-26 18:25:43 |WARN  |HikariPool-1 housekeeper |HikariPool.java:787 |com.zaxxer.hikari.pool.HikariPool |HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m43s725ms796µs800ns).
+2021-02-26 18:25:46 |WARN  |HikariPool-2 housekeeper |HikariPool.java:787 |com.zaxxer.hikari.pool.HikariPool |HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=9m43s726ms316µs900ns).
+2021-02-26 18:40:52 |WARN  |HikariPool-1 housekeeper |HikariPool.java:787 |com.zaxxer.hikari.pool.HikariPool |HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m38s933ms753µs100ns).
+2021-02-26 18:40:55 |WARN  |HikariPool-2 housekeeper |HikariPool.java:787 |com.zaxxer.hikari.pool.HikariPool |HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=12m38s932ms634µs600ns).
+2021-02-26 18:53:04 |WARN  |HikariPool-1 housekeeper |HikariPool.java:787 |com.zaxxer.hikari.pool.HikariPool |HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m42s203ms990µs500ns).
+2021-02-26 18:55:56 |WARN  |HikariPool-2 housekeeper |HikariPool.java:787 |com.zaxxer.hikari.pool.HikariPool |HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=12m31s413ms561µs200ns).
+2021-02-26 18:56:24 |WARN  |HikariPool-1 housekeeper |HikariPool.java:787 |com.zaxxer.hikari.pool.HikariPool |HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m19s214ms480µs500ns).
+2021-02-26 19:00:26 |WARN  |main |Bootstrap.java:68 |io.undertow.websockets.jsr |UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2021-02-26 19:01:09 |WARN  |main |ParameterDataTypeReader.java:92 |springfox.documentation.spring.web.readers.parameter.ParameterDataTypeReader |Trying to infer dataType java.lang.String[]
+2021-02-26 19:01:13 |WARN  |main |ParameterDataTypeReader.java:92 |springfox.documentation.spring.web.readers.parameter.ParameterDataTypeReader |Trying to infer dataType java.lang.String[]

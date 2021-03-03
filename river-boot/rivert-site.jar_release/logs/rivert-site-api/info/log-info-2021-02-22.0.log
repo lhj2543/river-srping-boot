@@ -1,0 +1,271 @@
+2021-02-22 08:51:13 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 08:51:13 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 08:52:03 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 08:52:03 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 08:58:07 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 08:58:07 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 09:04:45 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 09:04:45 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 09:06:04 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 09:06:04 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 09:23:44 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 09:23:44 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 09:23:54 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 09:23:54 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 09:23:55 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 09:23:55 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 09:25:48 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 09:25:48 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 09:33:32 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 09:33:32 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 09:36:17 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 09:36:17 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 09:36:35 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 09:36:35 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 09:38:26 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 09:38:26 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 09:38:31 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 09:38:31 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 09:49:31 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 09:49:31 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 09:49:33 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 09:49:33 |INFO  |XNIO-1 task-4 |NotebookController.java:43 |com.river.site.controller.NotebookController |查询笔记列表开始
+2021-02-22 09:49:44 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 09:49:44 |INFO  |XNIO-1 task-4 |NotebookController.java:43 |com.river.site.controller.NotebookController |查询笔记列表开始
+2021-02-22 09:49:47 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 09:49:47 |INFO  |XNIO-1 task-4 |NotebookController.java:80 |com.river.site.controller.NotebookController |查询笔记详情开始
+2021-02-22 09:49:47 |INFO  |XNIO-1 task-4 |NotebookController.java:97 |com.river.site.controller.NotebookController |查询笔记详情结束
+2021-02-22 09:49:47 |INFO  |XNIO-1 task-4 |UeditorController.java:30 |com.river.site.controller.publics.UeditorController |ueditor插件相关的请求开始
+2021-02-22 09:55:36 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 09:55:36 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 10:04:50 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 10:04:50 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 10:42:41 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 10:42:41 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 10:48:57 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 10:48:57 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 10:58:10 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 10:58:10 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 10:59:27 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 10:59:27 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 10:59:59 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 10:59:59 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 11:00:09 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 11:00:09 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 12:50:57 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 12:50:57 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 12:51:17 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 12:51:17 |INFO  |XNIO-1 task-4 |NotebookController.java:80 |com.river.site.controller.NotebookController |查询笔记详情开始
+2021-02-22 12:51:17 |INFO  |XNIO-1 task-4 |NotebookController.java:97 |com.river.site.controller.NotebookController |查询笔记详情结束
+2021-02-22 12:51:24 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 12:51:24 |INFO  |XNIO-1 task-4 |NotebookController.java:80 |com.river.site.controller.NotebookController |查询笔记详情开始
+2021-02-22 12:51:24 |INFO  |XNIO-1 task-4 |NotebookController.java:97 |com.river.site.controller.NotebookController |查询笔记详情结束
+2021-02-22 12:51:24 |INFO  |XNIO-1 task-4 |UeditorController.java:30 |com.river.site.controller.publics.UeditorController |ueditor插件相关的请求开始
+2021-02-22 13:08:50 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 13:08:50 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 13:09:11 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 13:09:11 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 13:09:38 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 13:09:38 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 13:21:12 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 13:21:12 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 13:21:26 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 13:21:26 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 13:28:27 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 13:28:27 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 13:34:46 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 13:34:46 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 13:36:37 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 13:36:37 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 13:36:56 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 13:36:56 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 13:39:16 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 13:39:16 |INFO  |XNIO-1 task-4 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 13:48:16 |INFO  |XNIO-1 task-4 |PublicController.java:51 |com.river.system.controller.PublicController |加载个人主页菜单开始
+2021-02-22 13:48:16 |INFO  |XNIO-1 task-4 |PublicController.java:82 |com.river.system.controller.PublicController |加载个人主页菜单结束
+2021-02-22 13:48:17 |INFO  |XNIO-1 task-4 |IndexController.java:59 |com.river.site.controller.publics.IndexController |加载首页数据开始
+2021-02-22 13:48:17 |INFO  |XNIO-1 task-4 |IndexController.java:105 |com.river.site.controller.publics.IndexController |加载首页数据结束
+2021-02-22 13:48:19 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:74 |com.river.site.controller.publics.PublicNotebookController |查询笔记列表开始
+2021-02-22 13:48:20 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:51 |com.river.site.controller.publics.PublicNotebookController |获取笔记分类树
+2021-02-22 13:48:23 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:74 |com.river.site.controller.publics.PublicNotebookController |查询笔记列表开始
+2021-02-22 13:48:24 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:74 |com.river.site.controller.publics.PublicNotebookController |查询笔记列表开始
+2021-02-22 13:48:29 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:119 |com.river.site.controller.publics.PublicNotebookController |查询笔记详情开始
+2021-02-22 13:48:29 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:136 |com.river.site.controller.publics.PublicNotebookController |查询笔记详情结束
+2021-02-22 13:49:29 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:119 |com.river.site.controller.publics.PublicNotebookController |查询笔记详情开始
+2021-02-22 13:49:29 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:136 |com.river.site.controller.publics.PublicNotebookController |查询笔记详情结束
+2021-02-22 14:04:38 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:74 |com.river.site.controller.publics.PublicNotebookController |查询笔记列表开始
+2021-02-22 14:04:40 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:119 |com.river.site.controller.publics.PublicNotebookController |查询笔记详情开始
+2021-02-22 14:04:40 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:136 |com.river.site.controller.publics.PublicNotebookController |查询笔记详情结束
+2021-02-22 15:48:15 |INFO  |XNIO-1 task-4 |PublicNotebookController.java:74 |com.river.site.controller.publics.PublicNotebookController |查询笔记列表开始
+2021-02-22 15:48:29 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 15:48:29 |INFO  |XNIO-1 task-4 |NotebookController.java:43 |com.river.site.controller.NotebookController |查询笔记列表开始
+2021-02-22 15:48:34 |INFO  |XNIO-1 task-4 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 15:48:34 |INFO  |XNIO-1 task-4 |SysItemController.java:65 |com.river.system.controller.SysItemController |查询字典开始
+2021-02-22 15:48:34 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 15:48:34 |INFO  |XNIO-1 task-2 |NotebookCategoryController.java:46 |com.river.site.controller.NotebookCategoryController |查询笔记分类列表开始
+2021-02-22 15:49:04 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 15:49:04 |INFO  |XNIO-1 task-2 |NotebookCategoryController.java:103 |com.river.site.controller.NotebookCategoryController |新增/修改笔记分类开始 
+2021-02-22 15:49:04 |INFO  |XNIO-1 task-2 |CacheCommonManage.java:98 |com.river.common.core.component.CacheCommonManage |清除redis缓存，prefix=river-site:notebook,key=null
+2021-02-22 15:49:06 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 15:49:06 |INFO  |XNIO-1 task-2 |NotebookCategoryController.java:46 |com.river.site.controller.NotebookCategoryController |查询笔记分类列表开始
+2021-02-22 15:49:06 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 15:49:06 |INFO  |XNIO-1 task-2 |NotebookController.java:43 |com.river.site.controller.NotebookController |查询笔记列表开始
+2021-02-22 15:49:11 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 15:49:11 |INFO  |XNIO-1 task-2 |NotebookController.java:43 |com.river.site.controller.NotebookController |查询笔记列表开始
+2021-02-22 15:49:13 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 15:49:13 |INFO  |XNIO-1 task-2 |NotebookController.java:80 |com.river.site.controller.NotebookController |查询笔记详情开始
+2021-02-22 15:49:13 |INFO  |XNIO-1 task-2 |NotebookController.java:97 |com.river.site.controller.NotebookController |查询笔记详情结束
+2021-02-22 15:49:13 |INFO  |XNIO-1 task-2 |UeditorController.java:30 |com.river.site.controller.publics.UeditorController |ueditor插件相关的请求开始
+2021-02-22 15:49:36 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 15:49:36 |INFO  |XNIO-1 task-2 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 15:50:18 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 15:50:18 |INFO  |XNIO-1 task-2 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 16:02:08 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 16:02:08 |INFO  |XNIO-1 task-2 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 16:05:38 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 16:05:38 |INFO  |XNIO-1 task-2 |NotebookController.java:43 |com.river.site.controller.NotebookController |查询笔记列表开始
+2021-02-22 16:05:40 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 16:05:40 |INFO  |XNIO-1 task-2 |NotebookController.java:43 |com.river.site.controller.NotebookController |查询笔记列表开始
+2021-02-22 16:05:42 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 16:05:42 |INFO  |XNIO-1 task-2 |NotebookController.java:80 |com.river.site.controller.NotebookController |查询笔记详情开始
+2021-02-22 16:05:42 |INFO  |XNIO-1 task-2 |NotebookController.java:97 |com.river.site.controller.NotebookController |查询笔记详情结束
+2021-02-22 16:05:42 |INFO  |XNIO-1 task-2 |UeditorController.java:30 |com.river.site.controller.publics.UeditorController |ueditor插件相关的请求开始
+2021-02-22 16:22:23 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 16:22:23 |INFO  |XNIO-1 task-2 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 16:24:14 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 16:24:14 |INFO  |XNIO-1 task-2 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 16:25:14 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 16:25:14 |INFO  |XNIO-1 task-2 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 16:26:10 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 16:26:10 |INFO  |XNIO-1 task-2 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 16:28:29 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 16:28:29 |INFO  |XNIO-1 task-2 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 16:28:44 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 16:28:44 |INFO  |XNIO-1 task-2 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 16:31:15 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 16:31:15 |INFO  |XNIO-1 task-2 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 16:36:44 |INFO  |XNIO-1 task-2 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 16:36:44 |INFO  |XNIO-1 task-2 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 16:36:48 |INFO  |XNIO-1 task-2 |PublicController.java:51 |com.river.system.controller.PublicController |加载个人主页菜单开始
+2021-02-22 16:36:48 |INFO  |XNIO-1 task-2 |PublicController.java:82 |com.river.system.controller.PublicController |加载个人主页菜单结束
+2021-02-22 16:36:48 |INFO  |XNIO-1 task-2 |PublicNotebookController.java:74 |com.river.site.controller.publics.PublicNotebookController |查询笔记列表开始
+2021-02-22 16:36:48 |INFO  |XNIO-1 task-1 |PublicNotebookController.java:51 |com.river.site.controller.publics.PublicNotebookController |获取笔记分类树
+2021-02-22 16:41:37 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 16:41:37 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 16:41:48 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 16:41:48 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 16:48:14 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 16:48:14 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 16:48:21 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 16:48:21 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 17:21:54 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 17:21:54 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 17:21:56 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 17:21:56 |INFO  |XNIO-1 task-1 |NotebookController.java:43 |com.river.site.controller.NotebookController |查询笔记列表开始
+2021-02-22 17:22:00 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 17:22:00 |INFO  |XNIO-1 task-1 |NotebookController.java:80 |com.river.site.controller.NotebookController |查询笔记详情开始
+2021-02-22 17:22:00 |INFO  |XNIO-1 task-1 |NotebookController.java:97 |com.river.site.controller.NotebookController |查询笔记详情结束
+2021-02-22 17:22:00 |INFO  |XNIO-1 task-1 |UeditorController.java:30 |com.river.site.controller.publics.UeditorController |ueditor插件相关的请求开始
+2021-02-22 17:27:52 |INFO  |XNIO-1 task-1 |PublicController.java:51 |com.river.system.controller.PublicController |加载个人主页菜单开始
+2021-02-22 17:28:13 |INFO  |XNIO-1 task-1 |IndexController.java:59 |com.river.site.controller.publics.IndexController |加载首页数据开始
+2021-02-22 17:28:14 |INFO  |XNIO-1 task-1 |IndexController.java:105 |com.river.site.controller.publics.IndexController |加载首页数据结束
+2021-02-22 17:29:45 |INFO  |XNIO-1 task-1 |PublicController.java:51 |com.river.system.controller.PublicController |加载个人主页菜单开始
+2021-02-22 17:29:55 |INFO  |XNIO-1 task-1 |PublicSiteConnentController.java:46 |com.river.site.controller.publics.PublicSiteConnentController |查询站点内容列表开始
+2021-02-22 17:30:03 |INFO  |XNIO-1 task-1 |PublicController.java:51 |com.river.system.controller.PublicController |加载个人主页菜单开始
+2021-02-22 17:30:26 |INFO  |XNIO-1 task-1 |PublicSiteConnentController.java:46 |com.river.site.controller.publics.PublicSiteConnentController |查询站点内容列表开始
+2021-02-22 17:31:55 |INFO  |lettuce-nioEventLoop-4-1 |AbstractInternalLogger.java:217 |io.lettuce.core.protocol.CommandHandler |null Unexpected exception during request: java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source)
+	at sun.nio.ch.IOUtil.read(Unknown Source)
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1133)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:714)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:576)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:989)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Unknown Source)
+2021-02-22 17:31:55 |INFO  |lettuce-eventExecutorLoop-1-3 |AbstractInternalLogger.java:171 |io.lettuce.core.protocol.ConnectionWatchdog |Reconnecting, last destination was /127.0.0.1:6379
+2021-02-22 17:32:02 |INFO  |lettuce-eventExecutorLoop-1-2 |AbstractInternalLogger.java:171 |io.lettuce.core.protocol.ConnectionWatchdog |Reconnecting, last destination was 127.0.0.1:6379
+2021-02-22 17:32:08 |INFO  |lettuce-eventExecutorLoop-1-4 |AbstractInternalLogger.java:171 |io.lettuce.core.protocol.ConnectionWatchdog |Reconnecting, last destination was 127.0.0.1:6379
+2021-02-22 17:32:15 |INFO  |lettuce-eventExecutorLoop-1-1 |AbstractInternalLogger.java:171 |io.lettuce.core.protocol.ConnectionWatchdog |Reconnecting, last destination was 127.0.0.1:6379
+2021-02-22 17:32:22 |INFO  |lettuce-eventExecutorLoop-1-2 |AbstractInternalLogger.java:171 |io.lettuce.core.protocol.ConnectionWatchdog |Reconnecting, last destination was 127.0.0.1:6379
+2021-02-22 17:32:29 |INFO  |lettuce-eventExecutorLoop-1-3 |AbstractInternalLogger.java:171 |io.lettuce.core.protocol.ConnectionWatchdog |Reconnecting, last destination was 127.0.0.1:6379
+2021-02-22 17:32:39 |INFO  |lettuce-eventExecutorLoop-1-1 |AbstractInternalLogger.java:171 |io.lettuce.core.protocol.ConnectionWatchdog |Reconnecting, last destination was 127.0.0.1:6379
+2021-02-22 17:32:57 |INFO  |lettuce-eventExecutorLoop-1-4 |AbstractInternalLogger.java:171 |io.lettuce.core.protocol.ConnectionWatchdog |Reconnecting, last destination was 127.0.0.1:6379
+2021-02-22 17:33:29 |INFO  |lettuce-eventExecutorLoop-1-2 |AbstractInternalLogger.java:171 |io.lettuce.core.protocol.ConnectionWatchdog |Reconnecting, last destination was 127.0.0.1:6379
+2021-02-22 17:34:01 |INFO  |lettuce-eventExecutorLoop-1-3 |AbstractInternalLogger.java:171 |io.lettuce.core.protocol.ConnectionWatchdog |Reconnecting, last destination was 127.0.0.1:6379
+2021-02-22 17:34:33 |INFO  |lettuce-eventExecutorLoop-1-1 |AbstractInternalLogger.java:171 |io.lettuce.core.protocol.ConnectionWatchdog |Reconnecting, last destination was 127.0.0.1:6379
+2021-02-22 17:35:06 |INFO  |lettuce-eventExecutorLoop-1-4 |AbstractInternalLogger.java:171 |io.lettuce.core.protocol.ConnectionWatchdog |Reconnecting, last destination was 127.0.0.1:6379
+2021-02-22 17:35:06 |INFO  |lettuce-nioEventLoop-4-4 |ReconnectionHandler.java:188 |io.lettuce.core.protocol.ReconnectionHandler |Reconnected to 127.0.0.1:6379
+2021-02-22 17:56:44 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 17:56:44 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 17:57:04 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 17:57:04 |INFO  |XNIO-1 task-1 |NotebookController.java:80 |com.river.site.controller.NotebookController |查询笔记详情开始
+2021-02-22 17:57:04 |INFO  |XNIO-1 task-1 |NotebookController.java:97 |com.river.site.controller.NotebookController |查询笔记详情结束
+2021-02-22 17:57:05 |INFO  |XNIO-1 task-1 |UeditorController.java:30 |com.river.site.controller.publics.UeditorController |ueditor插件相关的请求开始
+2021-02-22 18:07:48 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 18:07:48 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 18:09:29 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 18:09:30 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 18:14:41 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 18:14:41 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 18:17:01 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 18:17:01 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 18:36:02 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 18:36:02 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 18:41:41 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 18:41:41 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 18:49:09 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 18:49:09 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 18:56:22 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 18:56:22 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 18:57:37 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 18:57:37 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 18:58:56 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 18:58:56 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 19:17:53 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 19:17:53 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始
+2021-02-22 19:18:03 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 19:18:03 |INFO  |XNIO-1 task-1 |NotebookController.java:43 |com.river.site.controller.NotebookController |查询笔记列表开始
+2021-02-22 19:18:05 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 19:18:05 |INFO  |XNIO-1 task-1 |NotebookController.java:80 |com.river.site.controller.NotebookController |查询笔记详情开始
+2021-02-22 19:18:05 |INFO  |XNIO-1 task-1 |NotebookController.java:97 |com.river.site.controller.NotebookController |查询笔记详情结束
+2021-02-22 19:18:10 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 19:18:10 |INFO  |XNIO-1 task-1 |NotebookController.java:80 |com.river.site.controller.NotebookController |查询笔记详情开始
+2021-02-22 19:18:10 |INFO  |XNIO-1 task-1 |NotebookController.java:97 |com.river.site.controller.NotebookController |查询笔记详情结束
+2021-02-22 19:18:10 |INFO  |XNIO-1 task-1 |UeditorController.java:30 |com.river.site.controller.publics.UeditorController |ueditor插件相关的请求开始
+2021-02-22 21:01:54 |INFO  |XNIO-1 task-2 |CheckTokenEndpoint.java:92 |org.springframework.security.oauth2.provider.endpoint.CheckTokenEndpoint |Handling error: InvalidTokenException, Token has expired
+2021-02-22 21:01:54 |INFO  |XNIO-1 task-1 |RiverAuthenticationFailureEvenHandler.java:34 |com.river.security.handler.RiverAuthenticationFailureEvenHandler |用户：access-token 登录失败，异常：417ee4c7-240c-4514-8c8a-2394fb8ee7e6
+2021-02-22 21:01:54 |INFO  |XNIO-1 task-1 |PublicController.java:51 |com.river.system.controller.PublicController |加载个人主页菜单开始
+2021-02-22 21:01:54 |INFO  |XNIO-1 task-1 |PublicController.java:82 |com.river.system.controller.PublicController |加载个人主页菜单结束
+2021-02-22 21:01:59 |INFO  |XNIO-1 task-1 |LoginSysUserServiceImpl.java:46 |com.river.system.service.impl.LoginSysUserServiceImpl |获取用户登录信息,loginId=river
+2021-02-22 21:01:59 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 21:01:59 |INFO  |XNIO-1 task-1 |JdbcTokenStore.java:168 |org.springframework.security.oauth2.provider.token.store.JdbcTokenStore |Failed to find access token for token ff5e5705-cdd6-4e0f-8896-47e09c176bf1
+2021-02-22 21:02:00 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 21:02:00 |INFO  |XNIO-1 task-1 |SysMenuController.java:62 |com.river.system.controller.SysMenuController |获取用户菜单开始，userName=river
+2021-02-22 21:02:05 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 21:02:05 |INFO  |XNIO-1 task-1 |NotebookController.java:43 |com.river.site.controller.NotebookController |查询笔记列表开始
+2021-02-22 21:02:05 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 21:02:05 |INFO  |XNIO-1 task-1 |NotebookCategoryController.java:46 |com.river.site.controller.NotebookCategoryController |查询笔记分类列表开始
+2021-02-22 21:02:09 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 21:02:09 |INFO  |XNIO-1 task-1 |NotebookController.java:43 |com.river.site.controller.NotebookController |查询笔记列表开始
+2021-02-22 21:02:14 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 21:02:14 |INFO  |XNIO-1 task-1 |NotebookController.java:80 |com.river.site.controller.NotebookController |查询笔记详情开始
+2021-02-22 21:02:14 |INFO  |XNIO-1 task-1 |NotebookController.java:97 |com.river.site.controller.NotebookController |查询笔记详情结束
+2021-02-22 21:02:22 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 21:02:22 |INFO  |XNIO-1 task-1 |NotebookController.java:80 |com.river.site.controller.NotebookController |查询笔记详情开始
+2021-02-22 21:02:22 |INFO  |XNIO-1 task-1 |NotebookController.java:97 |com.river.site.controller.NotebookController |查询笔记详情结束
+2021-02-22 21:04:23 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 21:04:23 |INFO  |XNIO-1 task-1 |NotebookController.java:80 |com.river.site.controller.NotebookController |查询笔记详情开始
+2021-02-22 21:04:23 |INFO  |XNIO-1 task-1 |NotebookController.java:97 |com.river.site.controller.NotebookController |查询笔记详情结束
+2021-02-22 21:04:23 |INFO  |XNIO-1 task-1 |UeditorController.java:30 |com.river.site.controller.publics.UeditorController |ueditor插件相关的请求开始
+2021-02-22 21:08:59 |INFO  |XNIO-1 task-1 |RiverAuthenticationSuccessEventHandler.java:28 |com.river.security.handler.RiverAuthenticationSuccessEventHandler |用户：river 登录成功
+2021-02-22 21:08:59 |INFO  |XNIO-1 task-1 |NotebookController.java:127 |com.river.site.controller.NotebookController |新增/修改笔记开始

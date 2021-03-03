@@ -1,0 +1,98 @@
+MYSQL_HOST: 127.0.0.1
+MYSQL_PORT: 3306
+MYSQL_USER: root
+MYSQL_PWD: 123456
+
+
+server:
+  port: 9991
+  servlet:
+    # 应用的访问路径
+    context-path: /
+
+# Spring redis 相关
+spring:
+  application:
+    name: @artifactId@
+  profiles:
+    active: @profiles.active@ #当前激活环境
+  main:
+    allow-bean-definition-overriding: true
+  # 数据源
+  datasource:
+    #SpringBoot默认可以支持数据源类型 org.apache.tomcat.jdbc.pool.DataSource、HikariDataSource、BasicDataSource
+    type: com.zaxxer.hikari.HikariDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: ${MYSQL_USER}
+    password: ${MYSQL_PWD}
+    url: jdbc:mysql://${MYSQL_HOST}:${MYSQL_PORT}/rivert?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=false&allowMultiQueries=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=Asia/Shanghai
+  #redis缓存
+  redis:
+    password:  #没有密码为空
+    host: 127.0.0.1
+    port: 6379
+  lettuce: #redis lecttuce 缓存连接池
+    pool:
+      max-active: 20  #最大连接数，负值表示没有限制，默认8
+      max-wait: -1    #最大阻塞等待时间，负值表示没限制，默认-1
+      max-idle: 8     #最大空闲连接，默认8
+      min-idle: 0     #最小空闲连接，默认0
+  #spring:
+  jackson: #返回json的全局时间格式
+    date-format: yyyy-MM-dd
+    time-zone: GMT+8
+  #上传文件限制 如果是想要不限制文件上传的大小，那么就把两个值都设置为-1
+  servlet:
+    multipart:
+      max-file-size: -1 #设置单个文件的大小
+      max-request-size: -1 #设置单次请求的文件的总大小
+
+  freemarker:
+    allow-request-override: false
+    allow-session-override: false
+    cache: true
+    charset: UTF-8
+    check-template-location: true
+    content-type: text/html
+    enabled: true
+    expose-request-attributes: false
+    expose-session-attributes: false
+    expose-spring-macro-helpers: true
+    suffix: .ftl
+    #设定ftl文件路径 解决多模块下，加载不到其他模块封装的今天页面
+    template-loader-path: classpath:/templates/
+    #不使用文件系统优先，而使用classpath下的资源文件优先，解决打jar包运行后，出现的异常问题
+    prefer-file-system-access: false
+
+
+# mybaits-plus配置
+mybatis-plus:
+  mapper-locations: classpath:/mapper/*Mapper.xml #放在resource目录 classpath:/mapper/*Mapper.xml
+  global-config:
+    banner: false # 关闭MP3.0自带的banner
+    db-config:
+      id-type: ASSIGN_ID #主键生成策略 默认ASSIGN_ID （雪花算法） ,AUTO （自动增长策略）,Input（自定义输入策略）,ASSIGN_UUID（不含中划线的UUID）,NONE（无状态）
+      table-underline: true # 默认数据库表下划线命名
+      logic-delete-value: 1 #配置逻辑删除字段为1是删除
+      logic-not-delete-value: 0 #配置逻辑删除字段为0是未删除
+      select-strategy: not_empty # '' 空字符串不带如查询条件
+      update-strategy: ignored #字段更新插入策略  ignored:"忽略判断",not_null:"非 NULL 判断"),not_empty:"非空判断"
+  configuration:
+    map-underscore-to-camel-case: true #来开启驼峰功能
+      #log-impl: org.apache.ibatis.logging.stdout.StdOutImpl #mybatis-plus配置控制台打印完整带参数SQL语句
+
+# spring security 配置
+security:
+  oauth2:
+    resource:
+      token-info-uri: http://localhost:9991/oauth/check_token #远程token令牌 验证地址
+    client:
+      client-id: river #远程令牌验证客户端ID
+      client-secret: client_secret #远程令牌验证客户端秘钥
+      scope: server #范围
+    # 通用放行URL，服务个性化，请在对应配置文件覆盖
+    ignore:
+      urls:
+        - /v2/api-docs
+        - /actuator/**
+        - /public/**
